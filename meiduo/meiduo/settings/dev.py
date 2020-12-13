@@ -123,7 +123,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Shanghai'
 
 USE_I18N = True
 
@@ -157,106 +157,147 @@ CACHES = {
 SESSION_ENGINE = "django.contrib.sessions.backends.cache"
 SESSION_CACHE_ALIAS = "session"
 
-DEBUG = False  #线上环境时要关闭debug
-ALLOWED_HOSTS = ['*']   #线上环境时要允许所有ip访问，或有自己的规则
+DEBUG = True  #线上环境时要关闭debug
+ALLOWED_HOSTS = []   #线上环境时要允许所有ip访问，或有自己的规则
 
-
-# #  log  首先创建日志存储路径.
-import logging
-import django.utils.log
-import logging.handlers
-
-log_path = os.path.join(BASE_DIR, "logs")
-if not os.path.exists(log_path):
-    os.makedirs("logs")
-# DJANGO_LOG_LEVEL=DEBUG
 
 LOGGING = {
-    'version': 1,  # 保留字
-    'disable_existing_loggers': False,  # 禁用已经存在的logger实例
-    # 日志文件的格式
-    'formatters': {
-        # 详细的日志格式
-        'standard': {
-            'format': '[%(asctime)s][%(threadName)s:%(thread)d][task_id:%(name)s][%(filename)s:%(lineno)d]'
-                      '[%(levelname)s][%(message)s]'
+    'version': 1,
+    'disable_existing_loggers': False,  # 是否禁用已经存在的日志器
+    'formatters': {  # 日志信息显示的格式
+        'verbose': {
+            'format': '%(levelname)s %(asctime)s %(module)s %(lineno)d %(message)s'
         },
-        # 简单的日志格式
         'simple': {
-            'format': '[%(levelname)s][%(asctime)s][%(filename)s:%(lineno)d]%(message)s'
+            'format': '%(levelname)s %(module)s %(lineno)d %(message)s'
         },
-        # 定义一个特殊的日志格式
-        'collect': {
-            'format': '%(message)s'
-        }
     },
-    # 过滤器
-    'filters': {
-        'require_debug_true': {
+    'filters': {  # 对日志进行过滤
+        'require_debug_true': {  # django在debug模式下才输出日志
             '()': 'django.utils.log.RequireDebugTrue',
         },
     },
-    # 处理器
-    'handlers': {
-        'console': {  # 在终端打印
-            'level': 'DEBUG',
-            'filters': ['require_debug_true'],  # 只有在Django debug为True时才在屏幕打印日志
-            'class': 'logging.StreamHandler',  #
+    'handlers': {  # 日志处理方法
+        'console': {  # 向终端中输出日志
+            'level': 'INFO',
+            'filters': ['require_debug_true'],
+            'class': 'logging.StreamHandler',
             'formatter': 'simple'
         },
-        'default': {  # 默认的
+        'file': {  # 向文件中输出日志
             'level': 'INFO',
-            'class': 'logging.handlers.RotatingFileHandler',  # 保存到文件，自动切
-            'filename': os.path.join(BASE_DIR + '/logs/', "all.log"),  # 日志文件
-            'maxBytes': 1024 * 1024 * 50,  # 日志大小 50M
-            'backupCount': 3,  # 最多备份几个
-            'formatter': 'standard',
-            'encoding': 'utf-8',
-        },
-        'error': {  # 专门用来记错误日志
-            'level': 'ERROR',
-            'class': 'logging.handlers.RotatingFileHandler',  # 保存到文件，自动切
-            'filename': os.path.join(BASE_DIR + '/logs/', "error.log"),  # 日志文件
-            'maxBytes': 1024 * 1024 * 50,  # 日志大小 50M
-            'backupCount': 5,
-            'formatter': 'standard',
-            'encoding': 'utf-8',
-        },
-        'collect': {  # 专门定义一个收集特定信息的日志
-            'level': 'INFO',
-            'class': 'logging.handlers.RotatingFileHandler',  # 保存到文件，自动切
-            'filename': os.path.join(BASE_DIR + '/logs/', "collect.log"),
-            'maxBytes': 1024 * 1024 * 50,  # 日志大小 50M
-            'backupCount': 5,
-            'formatter': 'collect',
-            'encoding': "utf-8"
-        },
-        'scprits_handler': {
-            'level': 'DEBUG',
             'class': 'logging.handlers.RotatingFileHandler',
-            'filename': os.path.join(BASE_DIR + '/logs/', "script.log"),
-            'maxBytes': 1024 * 1024 * 5,
-            'backupCount': 5,
-            'formatter': 'standard',
-        }
-    },
-    'loggers': {
-        'django': {  # 默认的logger应用如下配置
-            'handlers': ['default', 'console', 'error'],  # 上线之后可以把'console'移除
-            'level': 'DEBUG',
-            'propagate': True,  # 向不向更高级别的logger传递
-        },
-        'collect': {  # 名为 'collect'的logger还单独处理
-            'handlers': ['console', 'collect'],
-            'level': 'INFO',
-        },
-        'scripts': {
-            'handlers': ['scprits_handler'],
-            'level': 'INFO',
-            'propagate': False
+            'filename': os.path.join(BASE_DIR+ '/logs/','meiduo.log'),
+            # 'filename':os.path.join(BASE_DIR + '/logs/', "script.log")# 日志文件的位置
+            'maxBytes': 300 * 1024 * 1024,
+            'backupCount': 10,
+            'formatter': 'verbose'
         },
     },
+    'loggers': {  # 日志器
+        'django': {  # 定义了一个名为django的日志器
+            'handlers': ['console', 'file'],  # 可以同时向终端与文件中输出日志
+            'propagate': True,  # 是否继续传递日志信息
+            'level': 'INFO',  # 日志器接收的最低日志级别
+        },
+    }
 }
+# #  log  首先创建日志存储路径.
+# import logging
+# import django.utils.log
+# import logging.handlers
+#
+# log_path = os.path.join(BASE_DIR, "logs")
+# if not os.path.exists(log_path):
+#     os.makedirs("logs")
+# # DJANGO_LOG_LEVEL=DEBUG
+#
+# LOGGING = {
+#     'version': 1,  # 保留字
+#     'disable_existing_loggers': False,  # 禁用已经存在的logger实例
+#     # 日志文件的格式
+#     'formatters': {
+#         # 详细的日志格式
+#         'standard': {
+#             'format': '[%(asctime)s][%(threadName)s:%(thread)d][task_id:%(name)s][%(filename)s:%(lineno)d]'
+#                       '[%(levelname)s][%(message)s]'
+#         },
+#         # 简单的日志格式
+#         'simple': {
+#             'format': '[%(levelname)s][%(asctime)s][%(filename)s:%(lineno)d]%(message)s'
+#         },
+#         # 定义一个特殊的日志格式
+#         'collect': {
+#             'format': '%(message)s'
+#         }
+#     },
+#     # 过滤器
+#     'filters': {
+#         'require_debug_true': {
+#             '()': 'django.utils.log.RequireDebugTrue',
+#         },
+#     },
+#     # 处理器
+#     'handlers': {
+#         'console': {  # 在终端打印
+#             'level': 'DEBUG',
+#             'filters': ['require_debug_true'],  # 只有在Django debug为True时才在屏幕打印日志
+#             'class': 'logging.StreamHandler',  #
+#             'formatter': 'simple'
+#         },
+#         'default': {  # 默认的
+#             'level': 'INFO',
+#             'class': 'logging.handlers.RotatingFileHandler',  # 保存到文件，自动切
+#             'filename': os.path.join(BASE_DIR + '/logs/', "all.log"),  # 日志文件
+#             'maxBytes': 1024 * 1024 * 50,  # 日志大小 50M
+#             'backupCount': 3,  # 最多备份几个
+#             'formatter': 'standard',
+#             'encoding': 'utf-8',
+#         },
+#         'error': {  # 专门用来记错误日志
+#             'level': 'ERROR',
+#             'class': 'logging.handlers.RotatingFileHandler',  # 保存到文件，自动切
+#             'filename': os.path.join(BASE_DIR + '/logs/', "error.log"),  # 日志文件
+#             'maxBytes': 1024 * 1024 * 50,  # 日志大小 50M
+#             'backupCount': 5,
+#             'formatter': 'standard',
+#             'encoding': 'utf-8',
+#         },
+#         'collect': {  # 专门定义一个收集特定信息的日志
+#             'level': 'INFO',
+#             'class': 'logging.handlers.RotatingFileHandler',  # 保存到文件，自动切
+#             'filename': os.path.join(BASE_DIR + '/logs/', "collect.log"),
+#             'maxBytes': 1024 * 1024 * 50,  # 日志大小 50M
+#             'backupCount': 5,
+#             'formatter': 'collect',
+#             'encoding': "utf-8"
+#         },
+#         'scprits_handler': {
+#             'level': 'DEBUG',
+#             'class': 'logging.handlers.RotatingFileHandler',
+#             'filename': os.path.join(BASE_DIR + '/logs/', "script.log"),
+#             'maxBytes': 1024 * 1024 * 5,
+#             'backupCount': 5,
+#             'formatter': 'standard',
+#         }
+#     },
+#     'loggers': {
+#         'django': {  # 默认的logger应用如下配置
+#             'handlers': ['default', 'console', 'error'],  # 上线之后可以把'console'移除
+#             'level': 'DEBUG',
+#             'propagate': True,  # 向不向更高级别的logger传递
+#         },
+#         'collect': {  # 名为 'collect'的logger还单独处理
+#             'handlers': ['console', 'collect'],
+#             'level': 'INFO',
+#         },
+#         'scripts': {
+#             'handlers': ['scprits_handler'],
+#             'level': 'INFO',
+#             'propagate': False
+#         },
+#     },
+# }
 
 # 下面就是logging的配置
 # LOGGING = {
