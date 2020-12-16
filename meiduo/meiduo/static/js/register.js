@@ -1,5 +1,4 @@
-// 我们采用的时ES6的语法
-// 创建Vue对象 vm
+
 let vm = new Vue({
     el: '#app', // 通过ID选择器找到绑定的HTML内容
     // 修改Vue读取变量的语法
@@ -37,6 +36,25 @@ let vm = new Vue({
                 // 匹配失败，展示错误提示信息
                 this.error_name_message = '请输入5-20个字符的用户名';
                 this.error_name = true;
+            }
+           if (this.error_name == false) { // 只有当用户输入的用户名满足条件时才回去判断
+                let re_path = '/username/' + this.username + '/count/';
+                axios.get(re_path, {
+                    responseType: 'json'
+                })
+                    .then(response => {
+                        if (response.data.count == 1) {
+                            // 用户名已存在
+                            this.error_name_message = '用户名已存在';
+                            this.error_name = true;
+                        } else {
+                            // 用户名不存在
+                            this.error_name = false;
+                        }
+                    })
+                    .catch(error => {
+                        console.log(error.response);
+                    })
             }
         },
         // 校验密码

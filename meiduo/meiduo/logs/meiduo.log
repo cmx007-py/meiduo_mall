@@ -1,0 +1,1271 @@
+INFO 2020-12-13 14:47:54,860 autoreload 584 Watching for file changes with StatReloader
+WARNING 2020-12-13 14:47:59,950 log 228 Not Found: /static/images/adv01.jpg
+WARNING 2020-12-13 14:47:59,950 basehttp 154 "GET /static/images/adv01.jpg HTTP/1.1" 404 77
+WARNING 2020-12-13 14:48:00,695 log 228 Not Found: /static/images/adv01.jpg
+WARNING 2020-12-13 14:48:00,696 basehttp 154 "GET /static/images/adv01.jpg HTTP/1.1" 404 77
+WARNING 2020-12-13 14:48:05,731 log 228 Not Found: /
+WARNING 2020-12-13 14:48:05,731 basehttp 154 "GET / HTTP/1.1" 404 77
+WARNING 2020-12-13 14:48:15,383 log 228 Not Found: /
+WARNING 2020-12-13 14:48:15,386 basehttp 154 "GET / HTTP/1.1" 404 77
+INFO 2020-12-13 14:49:04,325 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/settings/dev.py changed, reloading.
+INFO 2020-12-13 22:49:53,349 autoreload 584 Watching for file changes with StatReloader
+WARNING 2020-12-13 22:49:58,061 log 228 Not Found: /
+WARNING 2020-12-13 22:49:58,061 basehttp 154 "GET / HTTP/1.1" 404 77
+INFO 2020-12-13 22:50:25,029 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/settings/dev.py changed, reloading.
+INFO 2020-12-13 22:50:25,423 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-13 22:50:25,996 basehttp 154 "GET / HTTP/1.1" 200 16348
+INFO 2020-12-13 22:50:40,196 basehttp 154 "GET /static/images/adv01.jpg HTTP/1.1" 200 39831
+INFO 2020-12-14 06:37:06,945 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 06:41:30,908 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/settings/dev.py changed, reloading.
+INFO 2020-12-14 06:41:31,338 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 06:53:37,616 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/settings/dev.py changed, reloading.
+INFO 2020-12-14 06:53:38,055 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 06:54:01,300 basehttp 154 "GET / HTTP/1.1" 200 16348
+INFO 2020-12-14 06:54:01,370 basehttp 154 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2020-12-14 06:54:01,488 basehttp 154 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2020-12-14 06:54:01,488 basehttp 154 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2020-12-14 06:54:01,489 basehttp 154 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+WARNING 2020-12-14 06:54:01,492 log 228 Not Found: /favicon.ico
+WARNING 2020-12-14 06:54:01,492 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 1972
+INFO 2020-12-14 06:54:35,004 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 06:56:04,096 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/settings/dev.py changed, reloading.
+INFO 2020-12-14 06:56:04,497 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 06:56:58,621 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/settings/dev.py changed, reloading.
+INFO 2020-12-14 06:56:59,069 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 06:57:04,592 basehttp 154 "GET / HTTP/1.1" 200 16348
+INFO 2020-12-14 06:58:20,007 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/settings/dev.py changed, reloading.
+INFO 2020-12-14 06:58:20,452 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 06:58:20,732 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 06:58:33,445 basehttp 154 "GET / HTTP/1.1" 200 16348
+INFO 2020-12-14 06:58:37,310 basehttp 154 "GET / HTTP/1.1" 200 16348
+INFO 2020-12-14 06:58:37,919 basehttp 154 "GET / HTTP/1.1" 200 16348
+INFO 2020-12-14 06:59:37,356 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/settings/dev.py changed, reloading.
+INFO 2020-12-14 06:59:38,032 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 07:05:34,216 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/settings/dev.py changed, reloading.
+INFO 2020-12-14 07:05:34,890 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 07:06:46,758 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/settings/dev.py changed, reloading.
+INFO 2020-12-14 07:11:05,001 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 07:11:17,059 basehttp 154 "GET / HTTP/1.1" 200 16348
+INFO 2020-12-14 07:13:18,531 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/settings/dev.py changed, reloading.
+INFO 2020-12-14 07:13:19,092 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 07:13:24,553 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 07:13:45,928 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/settings/dev.py changed, reloading.
+INFO 2020-12-14 07:14:35,811 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 07:14:40,022 basehttp 154 "GET / HTTP/1.1" 200 16348
+INFO 2020-12-14 07:14:45,555 basehttp 154 "GET /admin/ HTTP/1.1" 302 0
+INFO 2020-12-14 07:14:45,647 basehttp 154 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1823
+INFO 2020-12-14 07:14:45,675 basehttp 154 "GET /static/admin/css/login.css HTTP/1.1" 200 1233
+INFO 2020-12-14 07:14:45,675 basehttp 154 "GET /static/admin/css/responsive.css HTTP/1.1" 200 17944
+INFO 2020-12-14 07:14:45,675 basehttp 154 "GET /static/admin/css/base.css HTTP/1.1" 200 16378
+INFO 2020-12-14 07:27:01,477 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/urls.py changed, reloading.
+INFO 2020-12-14 07:27:02,043 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 07:27:54,229 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 07:28:55,775 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 07:29:01,097 basehttp 154 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1823
+ERROR 2020-12-14 07:29:08,715 log 228 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py", line 6, in get
+    return render(request,'register.html',)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: register.html
+ERROR 2020-12-14 07:29:08,717 basehttp 154 "GET /register/ HTTP/1.1" 500 88994
+INFO 2020-12-14 07:36:46,121 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/settings/dev.py changed, reloading.
+INFO 2020-12-14 07:36:46,720 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 07:36:55,447 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 07:36:59,266 basehttp 154 "GET /register/ HTTP/1.1" 200 2984
+INFO 2020-12-14 07:36:59,289 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-12-14 07:36:59,296 basehttp 154 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2020-12-14 07:36:59,297 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-12-14 07:36:59,298 basehttp 154 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-12-14 07:36:59,315 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-12-14 07:36:59,316 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-12-14 07:36:59,317 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2020-12-14 07:42:47,149 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/urls.py changed, reloading.
+INFO 2020-12-14 07:42:47,820 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 07:48:07,490 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 07:51:39,521 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-14 07:51:40,098 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 07:51:46,939 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 07:52:14,900 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-14 07:52:15,273 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 07:52:24,420 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 08:00:26,193 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-14 08:00:26,865 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 08:01:11,112 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 08:01:52,896 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/urls.py changed, reloading.
+INFO 2020-12-14 08:01:53,518 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 08:03:09,495 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/urls.py changed, reloading.
+INFO 2020-12-14 08:03:09,876 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 08:03:16,885 basehttp 154 "GET /register/ HTTP/1.1" 200 2984
+INFO 2020-12-14 09:22:42,494 basehttp 154 "GET /register/ HTTP/1.1" 200 2984
+INFO 2020-12-14 09:29:14,049 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/models.py changed, reloading.
+INFO 2020-12-14 09:29:14,805 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 09:36:24,029 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 09:37:34,695 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 09:40:45,019 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/models.py changed, reloading.
+INFO 2020-12-14 09:40:45,598 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 09:41:08,289 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/models.py changed, reloading.
+INFO 2020-12-14 09:41:08,676 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 09:41:53,760 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/models.py changed, reloading.
+INFO 2020-12-14 09:41:54,208 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 10:00:35,018 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/settings/dev.py changed, reloading.
+INFO 2020-12-14 10:00:35,689 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 10:01:49,665 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/settings/dev.py changed, reloading.
+INFO 2020-12-14 10:01:50,249 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 10:12:07,663 autoreload 584 Watching for file changes with StatReloader
+WARNING 2020-12-14 10:25:58,202 log 228 Not Found: /
+WARNING 2020-12-14 10:25:58,203 basehttp 154 "GET / HTTP/1.1" 404 2094
+WARNING 2020-12-14 10:49:02,652 log 228 Not Found: /
+WARNING 2020-12-14 10:49:02,654 basehttp 154 "GET / HTTP/1.1" 404 2094
+INFO 2020-12-14 10:49:23,277 basehttp 154 "GET /register/ HTTP/1.1" 200 2984
+INFO 2020-12-14 11:07:02,478 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-14 11:07:03,217 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 11:07:29,080 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-14 11:07:29,731 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 19:28:14,126 basehttp 154 "GET /admin/ HTTP/1.1" 302 0
+INFO 2020-12-14 19:28:14,238 basehttp 154 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1823
+INFO 2020-12-14 19:28:14,293 basehttp 154 "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2020-12-14 19:28:14,294 basehttp 154 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2020-12-14 19:28:14,308 basehttp 154 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2020-12-14 19:28:14,313 basehttp 154 "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+INFO 2020-12-14 19:28:14,340 basehttp 154 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+WARNING 2020-12-14 19:28:14,351 log 228 Not Found: /favicon.ico
+WARNING 2020-12-14 19:28:14,352 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2145
+INFO 2020-12-14 19:28:14,356 basehttp 154 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+INFO 2020-12-14 19:46:03,819 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 19:46:07,400 basehttp 154 "GET /logging/ HTTP/1.1" 200 3136
+INFO 2020-12-14 19:47:57,600 basehttp 154 "GET /logging/ HTTP/1.1" 200 3136
+INFO 2020-12-14 19:48:20,591 basehttp 154 "GET /logging/ HTTP/1.1" 200 3136
+INFO 2020-12-14 19:48:35,991 basehttp 154 "GET /admin/ HTTP/1.1" 302 0
+INFO 2020-12-14 19:48:36,083 basehttp 154 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1823
+INFO 2020-12-14 19:50:21,970 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-14 19:50:22,466 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 19:51:18,426 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-14 19:51:18,849 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 19:51:27,533 basehttp 154 "GET /admin/ HTTP/1.1" 302 0
+INFO 2020-12-14 19:51:27,595 basehttp 154 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1823
+INFO 2020-12-14 19:51:33,768 basehttp 154 "GET /logging/ HTTP/1.1" 200 3136
+WARNING 2020-12-14 19:53:13,628 log 228 Not Found: /hhh/
+WARNING 2020-12-14 19:53:13,629 basehttp 154 "GET /hhh/ HTTP/1.1" 404 2295
+INFO 2020-12-14 19:57:51,434 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-14 19:57:52,192 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 19:57:58,093 basehttp 154 "GET /logging/ HTTP/1.1" 200 421
+INFO 2020-12-14 21:42:41,201 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-14 21:42:41,972 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 21:43:14,314 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-14 21:43:14,963 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 21:43:44,147 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/urls.py changed, reloading.
+INFO 2020-12-14 21:43:44,830 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 21:44:08,642 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/urls.py changed, reloading.
+INFO 2020-12-14 21:44:09,166 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 21:48:26,102 basehttp 154 "GET /logging/ HTTP/1.1" 200 720
+INFO 2020-12-14 21:50:46,890 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-14 21:50:47,606 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 21:51:17,026 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-14 21:51:17,752 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 21:52:17,234 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-14 21:52:17,944 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 21:52:24,624 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-14 21:52:25,093 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 21:54:47,314 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-14 21:54:48,110 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 21:55:11,936 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-14 21:55:12,327 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 21:55:40,412 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-14 21:55:40,887 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 21:58:11,320 basehttp 154 "GET /logging/ HTTP/1.1" 200 816
+INFO 2020-12-14 21:58:23,841 basehttp 154 "GET /logging/ HTTP/1.1" 200 816
+INFO 2020-12-14 21:58:30,863 basehttp 154 "GET /rece/?username=itcast&password=1234 HTTP/1.1" 200 3136
+INFO 2020-12-14 21:58:32,637 basehttp 154 "GET /rece/?username=itcast&password=1234 HTTP/1.1" 200 3136
+INFO 2020-12-14 22:02:24,905 basehttp 154 "GET /rece/?username=itcast&password=1234 HTTP/1.1" 200 3136
+INFO 2020-12-14 22:05:11,812 basehttp 154 "GET /rece/?username=itcast&password=1234 HTTP/1.1" 200 3136
+INFO 2020-12-14 22:06:35,637 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-14 22:06:36,402 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 22:07:27,202 basehttp 154 "GET /rece/?username=itcast&password=1234 HTTP/1.1" 200 3136
+INFO 2020-12-14 22:07:37,475 basehttp 154 "GET /rece/?username=itcast&password=1234 HTTP/1.1" 200 3136
+INFO 2020-12-14 22:09:25,159 basehttp 154 "GET /logging/ HTTP/1.1" 200 835
+INFO 2020-12-14 22:09:42,886 basehttp 154 "GET /rece/?username=itcast&password=1234 HTTP/1.1" 200 3136
+INFO 2020-12-14 22:09:55,910 basehttp 154 "GET /rece/?username=itcast&password=1234 HTTP/1.1" 200 3136
+INFO 2020-12-14 22:11:17,914 basehttp 154 "GET /logging/ HTTP/1.1" 200 835
+INFO 2020-12-14 22:11:24,932 basehttp 154 "GET /rece/?username=itcast&password=1234 HTTP/1.1" 200 84
+INFO 2020-12-14 22:11:42,333 basehttp 154 "GET /rece/?username=itcast&password=1234 HTTP/1.1" 200 84
+INFO 2020-12-14 22:12:19,191 basehttp 154 "GET /rece/?username=itcast&password=1234 HTTP/1.1" 200 84
+INFO 2020-12-14 22:12:28,580 basehttp 154 "GET /logging/ HTTP/1.1" 200 835
+INFO 2020-12-14 22:12:31,043 basehttp 154 "GET /rece/?username=itcast&password=1234 HTTP/1.1" 200 84
+INFO 2020-12-14 22:12:51,784 basehttp 154 "GET /rece/?username=itcast&password=1234 HTTP/1.1" 200 84
+INFO 2020-12-14 22:13:17,842 basehttp 154 "GET /logging/ HTTP/1.1" 200 830
+INFO 2020-12-14 22:13:18,882 basehttp 154 "GET /logging/ HTTP/1.1" 200 830
+INFO 2020-12-14 22:13:19,741 basehttp 154 "GET /logging/ HTTP/1.1" 200 830
+INFO 2020-12-14 22:13:20,209 basehttp 154 "GET /logging/ HTTP/1.1" 200 830
+INFO 2020-12-14 22:13:20,724 basehttp 154 "GET /logging/ HTTP/1.1" 200 830
+INFO 2020-12-14 22:13:33,012 basehttp 154 "GET /rece/?username=itcast&password=1234 HTTP/1.1" 200 84
+INFO 2020-12-14 22:19:59,659 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-14 22:20:00,410 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 22:21:59,777 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-14 22:22:00,482 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 22:22:56,573 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-14 22:22:57,425 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 22:23:24,457 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-14 22:23:25,167 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 22:23:28,179 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-14 22:23:31,344 basehttp 154 "GET /register/ HTTP/1.1" 200 3125
+INFO 2020-12-14 22:23:55,101 basehttp 154 "GET /register/ HTTP/1.1" 200 3125
+INFO 2020-12-14 22:23:55,822 basehttp 154 "GET /register/ HTTP/1.1" 200 3125
+INFO 2020-12-14 22:23:56,445 basehttp 154 "GET /register/ HTTP/1.1" 200 3125
+INFO 2020-12-14 22:25:24,418 basehttp 154 "GET /register/ HTTP/1.1" 200 3125
+INFO 2020-12-14 22:27:05,964 basehttp 154 "GET /register/ HTTP/1.1" 200 2984
+INFO 2020-12-15 10:55:56,326 basehttp 154 "GET /admin/ HTTP/1.1" 302 0
+INFO 2020-12-15 10:55:56,435 basehttp 154 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1823
+INFO 2020-12-15 10:55:56,470 basehttp 154 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2020-12-15 10:55:56,471 basehttp 154 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2020-12-15 10:55:56,472 basehttp 154 "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2020-12-15 10:55:56,491 basehttp 154 "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+INFO 2020-12-15 10:55:56,518 basehttp 154 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+INFO 2020-12-15 10:55:56,556 basehttp 154 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+ERROR 2020-12-15 10:56:14,333 log 228 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py", line 9, in get
+    return render(request,'register.html')
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/template/backends/jinja2.py", line 71, in render
+    return self.template.render(context)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/jinja2/environment.py", line 1090, in render
+    self.environment.handle_exception()
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/jinja2/environment.py", line 832, in handle_exception
+    reraise(*rewrite_traceback_stack(source=source))
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/jinja2/_compat.py", line 28, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/templates/register.html", line 85, in top-level template code
+    <script src="{{ static.js.register.js }}"></script>
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/jinja2/environment.py", line 471, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'method object' has no attribute 'js'
+ERROR 2020-12-15 10:56:14,338 basehttp 154 "GET /register/ HTTP/1.1" 500 113206
+INFO 2020-12-15 10:59:15,852 basehttp 154 "GET /register/ HTTP/1.1" 200 3549
+INFO 2020-12-15 10:59:15,923 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 0
+INFO 2020-12-15 10:59:24,005 basehttp 154 "GET /register/ HTTP/1.1" 200 3549
+INFO 2020-12-15 10:59:25,310 basehttp 154 "GET /register/ HTTP/1.1" 200 3549
+INFO 2020-12-15 10:59:34,925 basehttp 154 "GET /register/ HTTP/1.1" 200 3549
+INFO 2020-12-15 10:59:35,677 basehttp 154 "GET /register/ HTTP/1.1" 200 3549
+INFO 2020-12-15 10:59:36,581 basehttp 154 "GET /register/ HTTP/1.1" 200 3549
+INFO 2020-12-15 11:00:35,801 basehttp 154 "GET /register/ HTTP/1.1" 200 3549
+INFO 2020-12-15 11:00:35,888 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-15 11:00:37,047 basehttp 154 "GET /register/ HTTP/1.1" 200 3549
+INFO 2020-12-15 11:00:37,857 basehttp 154 "GET /register/ HTTP/1.1" 200 3549
+INFO 2020-12-15 11:00:38,679 basehttp 154 "GET /register/ HTTP/1.1" 200 3549
+INFO 2020-12-15 11:00:39,332 basehttp 154 "GET /register/ HTTP/1.1" 200 3549
+INFO 2020-12-15 11:00:40,545 basehttp 154 "GET /register/ HTTP/1.1" 200 3549
+INFO 2020-12-15 11:01:47,001 basehttp 154 "GET /register/ HTTP/1.1" 200 3549
+INFO 2020-12-15 11:01:47,051 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-15 11:01:47,874 basehttp 154 "GET /register/ HTTP/1.1" 200 3549
+INFO 2020-12-15 11:03:35,956 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-15 11:03:42,979 basehttp 154 "GET /register/ HTTP/1.1" 200 3549
+INFO 2020-12-15 11:03:43,016 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-15 11:03:44,033 basehttp 154 "GET /register/ HTTP/1.1" 200 3549
+INFO 2020-12-15 11:03:44,879 basehttp 154 "GET /register/ HTTP/1.1" 200 3549
+INFO 2020-12-15 11:03:45,709 basehttp 154 "GET /register/ HTTP/1.1" 200 3549
+INFO 2020-12-15 11:03:46,412 basehttp 154 "GET /register/ HTTP/1.1" 200 3549
+INFO 2020-12-15 11:07:06,358 basehttp 154 "GET /register/ HTTP/1.1" 200 3707
+INFO 2020-12-15 11:07:06,385 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-12-15 11:07:06,387 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-12-15 11:07:06,395 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-15 11:07:07,285 basehttp 154 "GET /register/ HTTP/1.1" 200 3707
+INFO 2020-12-15 11:07:10,782 basehttp 154 "GET /register/ HTTP/1.1" 200 3707
+INFO 2020-12-15 11:07:13,437 basehttp 154 "GET /register/ HTTP/1.1" 200 3707
+INFO 2020-12-15 11:10:53,344 basehttp 154 "GET /register/ HTTP/1.1" 200 3780
+INFO 2020-12-15 11:10:53,369 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-15 11:10:53,914 basehttp 154 "GET /register/ HTTP/1.1" 200 3780
+INFO 2020-12-15 11:10:54,230 basehttp 154 "GET /register/ HTTP/1.1" 200 3780
+INFO 2020-12-15 11:10:54,547 basehttp 154 "GET /register/ HTTP/1.1" 200 3780
+INFO 2020-12-15 11:10:58,772 basehttp 154 "GET /admin/ HTTP/1.1" 302 0
+INFO 2020-12-15 11:10:58,811 basehttp 154 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1823
+INFO 2020-12-15 11:10:59,707 basehttp 154 "GET /admin/ HTTP/1.1" 302 0
+INFO 2020-12-15 11:10:59,726 basehttp 154 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1823
+INFO 2020-12-15 11:11:03,749 basehttp 154 "GET /register/ HTTP/1.1" 200 3780
+WARNING 2020-12-15 11:11:08,301 log 228 Not Found: /register/login.html
+WARNING 2020-12-15 11:11:08,301 basehttp 154 "GET /register/login.html HTTP/1.1" 404 2169
+INFO 2020-12-15 11:12:35,470 basehttp 154 "GET /register/ HTTP/1.1" 200 3708
+WARNING 2020-12-15 11:12:38,841 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 11:12:50,322 basehttp 154 "GET /register/ HTTP/1.1" 200 3708
+WARNING 2020-12-15 11:12:50,390 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 11:26:26,222 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+INFO 2020-12-15 11:26:26,273 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 604
+WARNING 2020-12-15 11:26:26,323 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 11:26:30,236 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+INFO 2020-12-15 11:26:30,283 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2020-12-15 11:26:30,325 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 11:26:30,894 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+WARNING 2020-12-15 11:26:30,958 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 11:26:31,275 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+WARNING 2020-12-15 11:26:31,336 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 11:26:34,448 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+INFO 2020-12-15 11:26:34,482 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2020-12-15 11:26:34,515 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+WARNING 2020-12-15 11:26:42,475 log 228 Not Found: /register/login.html
+WARNING 2020-12-15 11:26:42,476 basehttp 154 "GET /register/login.html HTTP/1.1" 404 2169
+WARNING 2020-12-15 11:26:44,332 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 11:26:47,440 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+INFO 2020-12-15 11:26:47,474 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2020-12-15 11:26:47,505 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 11:27:01,116 basehttp 154 "GET /admin/ HTTP/1.1" 302 0
+INFO 2020-12-15 11:27:01,157 basehttp 154 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1823
+INFO 2020-12-15 11:27:02,962 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+INFO 2020-12-15 11:27:03,013 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-15 11:37:11,824 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-15 11:37:16,100 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+INFO 2020-12-15 11:37:16,157 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2020-12-15 11:37:20,892 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 11:37:25,065 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+WARNING 2020-12-15 11:37:25,143 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 11:37:25,232 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+WARNING 2020-12-15 11:37:25,298 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 11:52:54,442 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-15 11:52:57,543 basehttp 154 "GET /admin/ HTTP/1.1" 302 0
+INFO 2020-12-15 11:52:57,627 basehttp 154 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1823
+INFO 2020-12-15 11:53:01,007 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+INFO 2020-12-15 11:53:01,072 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2020-12-15 11:53:07,915 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 11:53:13,098 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+WARNING 2020-12-15 11:53:13,165 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 11:56:47,953 basehttp 154 "GET /register/ HTTP/1.1" 200 3711
+WARNING 2020-12-15 11:56:47,984 basehttp 154 "GET /static/js/axios-0.18.0.min.js' HTTP/1.1" 404 1705
+INFO 2020-12-15 11:56:47,988 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-15 11:56:57,574 basehttp 154 "GET /register/ HTTP/1.1" 200 3711
+WARNING 2020-12-15 11:56:57,630 basehttp 154 "GET /static/js/axios-0.18.0.min.js' HTTP/1.1" 404 1705
+INFO 2020-12-15 11:56:58,087 basehttp 154 "GET /register/ HTTP/1.1" 200 3711
+WARNING 2020-12-15 11:56:58,126 basehttp 154 "GET /static/js/axios-0.18.0.min.js' HTTP/1.1" 404 1705
+INFO 2020-12-15 11:57:52,962 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+WARNING 2020-12-15 11:57:53,039 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 12:25:39,672 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+INFO 2020-12-15 12:25:39,779 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 606
+WARNING 2020-12-15 12:25:39,806 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 12:30:47,609 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+INFO 2020-12-15 12:30:47,686 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 606
+WARNING 2020-12-15 12:30:47,719 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 12:30:51,756 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+WARNING 2020-12-15 12:30:51,827 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 12:30:52,666 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+WARNING 2020-12-15 12:30:52,806 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+WARNING 2020-12-15 12:45:24,984 log 228 Not Found: /register/index.html
+WARNING 2020-12-15 12:45:24,985 basehttp 154 "GET /register/index.html HTTP/1.1" 404 2169
+WARNING 2020-12-15 12:45:26,828 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 12:59:14,517 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+INFO 2020-12-15 12:59:14,577 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 890
+WARNING 2020-12-15 12:59:14,623 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 12:59:16,855 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+INFO 2020-12-15 12:59:16,901 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2020-12-15 12:59:16,932 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 12:59:17,725 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+INFO 2020-12-15 12:59:17,766 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2020-12-15 12:59:17,808 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 12:59:22,862 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+INFO 2020-12-15 12:59:22,909 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2020-12-15 12:59:22,944 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 12:59:35,397 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+INFO 2020-12-15 12:59:35,455 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 881
+WARNING 2020-12-15 12:59:35,483 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 13:00:11,193 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+INFO 2020-12-15 13:00:11,222 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2020-12-15 13:00:11,277 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 13:03:13,928 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+INFO 2020-12-15 13:03:13,995 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 2094
+WARNING 2020-12-15 13:03:14,028 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 13:03:34,815 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+INFO 2020-12-15 13:03:34,858 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2020-12-15 13:03:34,907 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 13:03:59,066 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+INFO 2020-12-15 13:03:59,108 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2020-12-15 13:03:59,167 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 13:04:12,469 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+INFO 2020-12-15 13:04:12,503 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2020-12-15 13:04:12,545 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 14:45:41,869 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+INFO 2020-12-15 14:45:41,957 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 2087
+WARNING 2020-12-15 14:45:41,995 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 14:46:42,462 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+INFO 2020-12-15 14:46:42,488 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-15 14:49:02,989 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+INFO 2020-12-15 14:49:03,024 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-15 14:49:11,501 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+INFO 2020-12-15 14:49:22,084 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+INFO 2020-12-15 14:49:34,833 basehttp 154 "GET /register/ HTTP/1.1" 200 3710
+INFO 2020-12-15 14:49:34,870 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-15 14:50:18,413 basehttp 154 "GET /register/ HTTP/1.1" 200 3708
+INFO 2020-12-15 14:50:18,437 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-15 14:50:19,222 basehttp 154 "GET /register/ HTTP/1.1" 200 3708
+INFO 2020-12-15 14:50:19,754 basehttp 154 "GET /register/ HTTP/1.1" 200 3708
+INFO 2020-12-15 14:50:20,617 basehttp 154 "GET /register/ HTTP/1.1" 200 3708
+INFO 2020-12-15 14:50:31,930 basehttp 154 "GET /register/ HTTP/1.1" 200 3708
+INFO 2020-12-15 14:50:47,578 basehttp 154 "GET /register/ HTTP/1.1" 200 3708
+INFO 2020-12-15 14:51:16,022 basehttp 154 "GET /register/ HTTP/1.1" 200 3708
+INFO 2020-12-15 14:51:16,046 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-15 14:54:05,743 basehttp 154 "GET /register/ HTTP/1.1" 200 3708
+INFO 2020-12-15 14:54:05,772 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-15 14:54:20,176 basehttp 154 "GET /register/ HTTP/1.1" 200 3708
+INFO 2020-12-15 14:54:57,881 basehttp 154 "GET /register/ HTTP/1.1" 200 3708
+INFO 2020-12-15 14:55:02,851 basehttp 154 "GET /register/ HTTP/1.1" 200 3708
+INFO 2020-12-15 14:55:29,500 basehttp 154 "GET /register/ HTTP/1.1" 200 3708
+INFO 2020-12-15 14:55:29,530 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 2087
+INFO 2020-12-15 15:13:46,066 autoreload 584 Watching for file changes with StatReloader
+WARNING 2020-12-15 15:13:49,459 log 228 Not Found: /
+WARNING 2020-12-15 15:13:49,460 basehttp 154 "GET / HTTP/1.1" 404 2094
+WARNING 2020-12-15 15:13:49,563 log 228 Not Found: /favicon.ico
+WARNING 2020-12-15 15:13:49,566 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2145
+INFO 2020-12-15 15:14:13,006 basehttp 154 "GET /admin/ HTTP/1.1" 302 0
+INFO 2020-12-15 15:14:13,103 basehttp 154 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1823
+INFO 2020-12-15 15:14:13,122 basehttp 154 "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2020-12-15 15:14:13,122 basehttp 154 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2020-12-15 15:14:13,122 basehttp 154 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2020-12-15 15:14:15,140 basehttp 154 "GET /register/ HTTP/1.1" 200 3709
+INFO 2020-12-15 15:14:15,208 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 2095
+INFO 2020-12-15 15:14:21,692 basehttp 154 "GET /register HTTP/1.1" 301 0
+WARNING 2020-12-15 15:14:21,890 log 228 Not Found: /favicon.ico
+WARNING 2020-12-15 15:14:21,890 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2145
+INFO 2020-12-15 15:21:15,259 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-15 15:21:19,616 basehttp 154 "GET /register/ HTTP/1.1" 200 3806
+INFO 2020-12-15 15:21:19,690 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2020-12-15 15:21:19,696 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-15 15:22:33,339 basehttp 154 "GET /register/ HTTP/1.1" 200 3806
+INFO 2020-12-15 15:28:41,910 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-15 15:28:48,885 basehttp 154 "GET /register/ HTTP/1.1" 200 3692
+WARNING 2020-12-15 15:28:48,934 log 228 Not Found: /register/static('js/axios-0.18.0.min.js
+WARNING 2020-12-15 15:28:48,934 basehttp 154 "GET /register/static('js/axios-0.18.0.min.js HTTP/1.1" 404 2241
+INFO 2020-12-15 15:28:48,949 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2020-12-15 15:28:48,952 log 228 Not Found: /register/static('js/axios-0.18.0.min.js
+WARNING 2020-12-15 15:28:48,953 basehttp 154 "GET /register/static('js/axios-0.18.0.min.js HTTP/1.1" 404 2241
+INFO 2020-12-15 15:29:23,922 basehttp 154 "GET /register/ HTTP/1.1" 200 3691
+WARNING 2020-12-15 15:29:23,951 log 228 Not Found: /register/static/js/axios-0.18.0.min.js
+WARNING 2020-12-15 15:29:23,952 basehttp 154 "GET /register/static/js/axios-0.18.0.min.js HTTP/1.1" 404 2226
+INFO 2020-12-15 15:31:41,283 basehttp 154 "GET /register/ HTTP/1.1" 200 3691
+WARNING 2020-12-15 15:31:41,327 log 228 Not Found: /register/static/js/axios-0.18.0.min.js
+WARNING 2020-12-15 15:31:41,327 basehttp 154 "GET /register/static/js/axios-0.18.0.min.js HTTP/1.1" 404 2226
+INFO 2020-12-15 15:32:47,696 basehttp 154 "GET /register/ HTTP/1.1" 200 3692
+INFO 2020-12-15 15:32:47,771 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2020-12-15 15:32:47,829 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-12-15 15:48:00,769 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-15 15:55:24,833 basehttp 154 "GET /admin/ HTTP/1.1" 302 0
+INFO 2020-12-15 15:55:24,971 basehttp 154 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1823
+INFO 2020-12-15 15:55:25,004 basehttp 154 "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+INFO 2020-12-15 15:55:25,124 basehttp 154 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+INFO 2020-12-15 15:55:25,132 basehttp 154 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+WARNING 2020-12-15 15:55:32,822 log 228 Not Found: /regiser
+WARNING 2020-12-15 15:55:32,823 basehttp 154 "GET /regiser HTTP/1.1" 404 2133
+INFO 2020-12-15 15:55:39,847 basehttp 154 "GET /register/ HTTP/1.1" 200 3678
+INFO 2020-12-15 15:55:39,966 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-15 16:14:28,206 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 16:14:28,901 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-15 16:14:46,214 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 16:14:46,604 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-15 16:14:53,276 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 16:14:53,737 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-15 16:16:30,613 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 16:16:31,037 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-15 16:19:34,781 basehttp 154 "GET /register/ HTTP/1.1" 200 3678
+INFO 2020-12-15 16:19:34,837 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-15 16:23:27,814 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 16:23:28,503 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-15 16:23:46,982 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 16:23:47,395 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-15 16:23:48,168 basehttp 154 "GET /register/ HTTP/1.1" 200 3678
+INFO 2020-12-15 16:33:34,492 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 16:33:35,066 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-15 16:34:15,044 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 16:34:15,404 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-15 16:45:45,811 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 16:45:46,377 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-15 16:46:32,599 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 16:46:33,020 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-15 16:47:41,697 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 16:47:42,082 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-15 16:49:00,463 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 16:49:00,836 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-15 16:53:41,440 autoreload 211 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 16:53:41,932 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-15 16:55:59,024 basehttp 154 "GET /admin/ HTTP/1.1" 302 0
+INFO 2020-12-15 16:55:59,122 basehttp 154 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1823
+INFO 2020-12-15 16:56:08,432 basehttp 154 "GET /register/ HTTP/1.1" 200 3678
+INFO 2020-12-15 16:56:08,479 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-15 16:58:46,287 basehttp 154 "GET /register/ HTTP/1.1" 200 3678
+WARNING 2020-12-15 16:59:25,290 log 228 Not Found: /register/login.html
+WARNING 2020-12-15 16:59:25,290 basehttp 154 "GET /register/login.html HTTP/1.1" 404 2169
+INFO 2020-12-15 17:12:06,569 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-15 17:12:21,700 basehttp 154 "GET /admin/ HTTP/1.1" 302 0
+INFO 2020-12-15 17:12:21,798 basehttp 154 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1823
+INFO 2020-12-15 17:12:35,560 basehttp 154 "GET /register/ HTTP/1.1" 200 3678
+INFO 2020-12-15 17:12:35,663 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-15 17:15:04,066 autoreload 211 /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/contrib/contenttypes/migrations/0002_remove_content_type_name.py changed, reloading.
+INFO 2020-12-15 18:09:39,111 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-15 18:10:02,312 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-15 18:11:01,128 autoreload 211 /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/db/backends/mysql/operations.py changed, reloading.
+INFO 2020-12-15 18:11:01,523 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-15 18:11:07,427 basehttp 154 "GET /admin/ HTTP/1.1" 302 0
+INFO 2020-12-15 18:11:07,514 basehttp 154 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1823
+WARNING 2020-12-15 18:11:12,880 log 228 Not Found: /regiser
+WARNING 2020-12-15 18:11:12,880 basehttp 154 "GET /regiser HTTP/1.1" 404 2133
+INFO 2020-12-15 18:11:16,961 basehttp 154 "GET /register/ HTTP/1.1" 200 3678
+INFO 2020-12-15 18:11:17,016 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-15 19:02:25,149 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-15 19:05:27,635 autoreload 584 Watching for file changes with StatReloader
+INFO 2020-12-15 19:07:09,058 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-12-15 19:07:22,203 basehttp 157 "GET /admin/ HTTP/1.1" 302 0
+INFO 2020-12-15 19:07:22,354 basehttp 157 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1917
+INFO 2020-12-15 19:07:33,674 basehttp 157 "GET /register/ HTTP/1.1" 200 3678
+INFO 2020-12-15 19:07:33,753 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-15 19:08:39,776 basehttp 157 "GET /register/ HTTP/1.1" 200 3678
+INFO 2020-12-15 19:14:52,610 basehttp 157 "GET /register/ HTTP/1.1" 200 3678
+INFO 2020-12-15 19:17:33,659 basehttp 157 "GET /register/ HTTP/1.1" 200 3675
+INFO 2020-12-15 19:18:04,755 basehttp 157 "GET /register/ HTTP/1.1" 200 3671
+INFO 2020-12-15 19:18:05,958 basehttp 157 "GET /register/ HTTP/1.1" 200 3671
+INFO 2020-12-15 19:22:00,239 basehttp 157 "GET /register/ HTTP/1.1" 200 3676
+INFO 2020-12-15 19:23:33,633 basehttp 157 "GET /register/ HTTP/1.1" 200 3676
+INFO 2020-12-15 19:24:36,222 basehttp 157 "GET /register/ HTTP/1.1" 200 3676
+INFO 2020-12-15 19:25:55,460 basehttp 157 "GET /register/ HTTP/1.1" 200 3678
+INFO 2020-12-15 19:33:02,951 basehttp 157 "GET /register/ HTTP/1.1" 200 3678
+INFO 2020-12-15 19:33:02,982 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 3728
+INFO 2020-12-15 19:33:59,217 basehttp 157 "GET /register/ HTTP/1.1" 200 3678
+INFO 2020-12-15 19:33:59,249 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 3732
+INFO 2020-12-15 19:34:28,971 basehttp 157 "GET /register/ HTTP/1.1" 200 3678
+INFO 2020-12-15 19:34:29,007 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 3736
+INFO 2020-12-15 19:36:02,750 basehttp 157 "GET /register/ HTTP/1.1" 200 3678
+INFO 2020-12-15 19:36:02,843 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 3807
+INFO 2020-12-15 19:37:45,493 basehttp 157 "GET /register/ HTTP/1.1" 200 3678
+INFO 2020-12-15 19:37:45,552 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 3807
+INFO 2020-12-15 19:40:03,364 basehttp 157 "GET /register/ HTTP/1.1" 200 3678
+INFO 2020-12-15 19:40:03,404 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 3808
+WARNING 2020-12-15 19:41:13,520 log 228 Not Found: /register/login.html
+WARNING 2020-12-15 19:41:13,521 basehttp 157 "GET /register/login.html HTTP/1.1" 404 2169
+INFO 2020-12-15 20:00:15,509 basehttp 157 "GET /register/ HTTP/1.1" 200 3538
+INFO 2020-12-15 20:00:15,552 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 3834
+WARNING 2020-12-15 20:00:28,283 log 228 Forbidden (CSRF token missing or incorrect.): /register/
+WARNING 2020-12-15 20:00:28,283 basehttp 157 "POST /register/ HTTP/1.1" 403 2513
+WARNING 2020-12-15 20:02:05,182 log 228 Forbidden (CSRF token missing or incorrect.): /register/
+WARNING 2020-12-15 20:02:05,182 basehttp 157 "POST /register/ HTTP/1.1" 403 2513
+WARNING 2020-12-15 20:02:31,202 log 228 Forbidden (CSRF token missing or incorrect.): /register/
+WARNING 2020-12-15 20:02:31,203 basehttp 157 "POST /register/ HTTP/1.1" 403 2513
+WARNING 2020-12-15 20:03:56,328 log 228 Forbidden (CSRF token missing or incorrect.): /register/
+WARNING 2020-12-15 20:03:56,329 basehttp 157 "POST /register/ HTTP/1.1" 403 2513
+INFO 2020-12-15 20:12:25,597 autoreload 222 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 20:12:26,353 autoreload 598 Watching for file changes with StatReloader
+WARNING 2020-12-15 20:12:48,663 log 228 Forbidden (CSRF token missing or incorrect.): /register/
+WARNING 2020-12-15 20:12:48,664 basehttp 157 "POST /register/ HTTP/1.1" 403 2513
+INFO 2020-12-15 20:12:51,102 basehttp 157 "GET /register/ HTTP/1.1" 200 3680
+INFO 2020-12-15 20:12:51,142 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 3810
+INFO 2020-12-15 20:13:29,130 autoreload 222 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 20:13:29,794 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-12-15 20:13:52,829 autoreload 222 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 20:13:53,378 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-12-15 20:14:54,991 autoreload 222 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 20:14:55,436 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-12-15 20:17:32,918 autoreload 222 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 20:17:33,353 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-12-15 20:18:00,198 autoreload 222 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 20:18:00,719 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-12-15 20:18:49,153 autoreload 222 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 20:18:49,613 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-12-15 20:19:07,990 autoreload 222 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 20:19:08,413 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-12-15 20:20:20,423 autoreload 222 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 20:20:21,078 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-12-15 20:25:08,415 autoreload 222 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 20:25:09,198 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-12-15 21:42:43,103 autoreload 222 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 21:42:43,866 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-12-15 21:43:08,905 autoreload 222 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 21:43:09,700 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-12-15 21:43:44,100 autoreload 222 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 21:43:44,501 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-12-15 21:45:03,736 autoreload 222 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 21:45:04,125 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-12-15 21:45:18,299 autoreload 222 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 21:45:18,746 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-12-15 21:47:14,565 autoreload 222 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 21:47:15,269 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-12-15 21:47:51,797 autoreload 222 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 21:47:52,205 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-12-15 21:55:26,940 autoreload 222 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-15 21:55:27,700 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-12-15 21:56:10,344 basehttp 157 "GET /register/ HTTP/1.1" 200 3680
+INFO 2020-12-15 21:56:10,413 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-15 22:06:31,185 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-12-15 22:06:35,174 basehttp 157 "GET /register/ HTTP/1.1" 200 3680
+INFO 2020-12-15 22:07:25,376 basehttp 157 "GET /register/ HTTP/1.1" 200 3558
+INFO 2020-12-15 22:08:03,171 basehttp 157 "GET /register/ HTTP/1.1" 200 3546
+INFO 2020-12-15 22:08:03,196 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-15 22:08:53,268 basehttp 157 "GET /register/ HTTP/1.1" 200 3539
+WARNING 2020-12-15 22:08:53,311 log 228 Not Found: /js/register.js
+WARNING 2020-12-15 22:08:53,311 basehttp 157 "GET /js/register.js HTTP/1.1" 404 2154
+WARNING 2020-12-15 22:08:53,514 log 228 Not Found: /js/register.js
+WARNING 2020-12-15 22:08:53,515 basehttp 157 "GET /js/register.js HTTP/1.1" 404 2154
+INFO 2020-12-15 22:08:57,083 basehttp 157 "GET /register/ HTTP/1.1" 200 3539
+WARNING 2020-12-15 22:08:57,115 log 228 Not Found: /js/register.js
+WARNING 2020-12-15 22:08:57,115 basehttp 157 "GET /js/register.js HTTP/1.1" 404 2154
+WARNING 2020-12-15 22:08:57,322 log 228 Not Found: /js/register.js
+WARNING 2020-12-15 22:08:57,323 basehttp 157 "GET /js/register.js HTTP/1.1" 404 2154
+INFO 2020-12-15 22:09:19,098 basehttp 157 "GET /register/ HTTP/1.1" 200 3546
+INFO 2020-12-15 22:09:39,769 basehttp 157 "GET /register/ HTTP/1.1" 200 3546
+INFO 2020-12-15 22:09:39,810 basehttp 157 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-12-15 22:09:39,837 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 3810
+INFO 2020-12-15 22:09:39,848 basehttp 157 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-12-15 22:09:40,861 basehttp 157 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2020-12-15 22:09:40,862 basehttp 157 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-12-15 22:09:43,065 basehttp 157 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-12-15 22:09:43,073 basehttp 157 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-12-15 22:09:43,078 basehttp 157 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2020-12-15 22:17:40,789 basehttp 157 "GET /register/ HTTP/1.1" 200 3538
+INFO 2020-12-15 22:27:44,338 basehttp 157 "GET /register/ HTTP/1.1" 200 3527
+INFO 2020-12-15 22:27:44,377 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 3806
+INFO 2020-12-15 22:42:43,513 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-12-15 22:56:44,045 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-15 22:58:13,619 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-15 22:59:48,302 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-15 23:00:00,303 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-15 23:01:39,557 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/settings/__init__.py changed, reloading.
+INFO 2020-12-15 23:01:40,285 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-15 23:02:08,254 basehttp 157 "GET /admin/ HTTP/1.1" 302 0
+INFO 2020-12-15 23:02:08,348 basehttp 157 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2198
+INFO 2020-12-15 23:02:08,398 basehttp 157 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2138
+INFO 2020-12-15 23:02:08,401 basehttp 157 "GET /static/admin/css/login.css HTTP/1.1" 200 1185
+INFO 2020-12-15 23:02:08,402 basehttp 157 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+INFO 2020-12-15 23:02:08,404 basehttp 157 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18339
+INFO 2020-12-15 23:02:08,431 basehttp 157 "GET /static/admin/css/base.css HTTP/1.1" 200 16307
+INFO 2020-12-15 23:02:08,433 basehttp 157 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2020-12-15 23:02:08,459 basehttp 157 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2020-12-15 23:02:08,465 basehttp 157 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2020-12-15 23:02:15,176 basehttp 157 "GET /register/ HTTP/1.1" 200 3527
+INFO 2020-12-15 23:02:15,227 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-15 23:06:39,896 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/settings/__init__.py changed, reloading.
+INFO 2020-12-15 23:07:03,521 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-15 23:08:44,617 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-15 23:44:51,709 basehttp 157 "GET /register/ HTTP/1.1" 200 3603
+INFO 2020-12-15 23:44:51,846 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-16 10:11:58,356 basehttp 157 "GET /register/ HTTP/1.1" 200 3587
+INFO 2020-12-16 10:11:58,470 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-16 10:16:15,205 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 10:16:22,685 basehttp 157 "GET /register/ HTTP/1.1" 200 3610
+INFO 2020-12-16 10:17:09,351 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 10:17:22,344 basehttp 157 "GET /register/ HTTP/1.1" 200 3610
+INFO 2020-12-16 11:07:15,373 basehttp 157 "GET /register/ HTTP/1.1" 200 3610
+INFO 2020-12-16 11:14:12,567 basehttp 157 "GET /register/ HTTP/1.1" 200 3600
+WARNING 2020-12-16 11:14:16,825 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 11:14:21,705 basehttp 157 "GET /register/ HTTP/1.1" 200 3600
+WARNING 2020-12-16 11:14:21,837 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 11:16:55,023 basehttp 157 "GET /register/ HTTP/1.1" 200 3600
+WARNING 2020-12-16 11:17:16,672 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 11:26:38,466 basehttp 157 "GET /register/ HTTP/1.1" 200 3591
+INFO 2020-12-16 11:26:38,508 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 3905
+INFO 2020-12-16 11:26:55,202 basehttp 157 "GET /register/ HTTP/1.1" 200 3614
+INFO 2020-12-16 11:26:56,780 basehttp 157 "GET /register/ HTTP/1.1" 200 3614
+INFO 2020-12-16 11:26:57,626 basehttp 157 "GET /register/ HTTP/1.1" 200 3614
+INFO 2020-12-16 11:27:06,353 basehttp 157 "GET /register/ HTTP/1.1" 200 3603
+INFO 2020-12-16 11:27:07,339 basehttp 157 "GET /register/ HTTP/1.1" 200 3603
+INFO 2020-12-16 11:27:07,994 basehttp 157 "GET /register/ HTTP/1.1" 200 3603
+INFO 2020-12-16 11:27:08,401 basehttp 157 "GET /register/ HTTP/1.1" 200 3603
+INFO 2020-12-16 11:27:08,706 basehttp 157 "GET /register/ HTTP/1.1" 200 3603
+INFO 2020-12-16 11:27:08,991 basehttp 157 "GET /register/ HTTP/1.1" 200 3603
+INFO 2020-12-16 11:27:09,243 basehttp 157 "GET /register/ HTTP/1.1" 200 3603
+INFO 2020-12-16 11:27:09,553 basehttp 157 "GET /register/ HTTP/1.1" 200 3603
+INFO 2020-12-16 11:27:10,994 basehttp 157 "GET /register/ HTTP/1.1" 200 3603
+INFO 2020-12-16 11:27:30,849 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 11:27:36,719 basehttp 157 "GET /register/ HTTP/1.1" 200 3603
+INFO 2020-12-16 11:28:18,714 basehttp 157 "GET /register/ HTTP/1.1" 200 3603
+INFO 2020-12-16 11:28:18,799 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2020-12-16 11:28:18,930 log 230 Not Found: /favicon.ico
+WARNING 2020-12-16 11:28:18,930 basehttp 157 "GET /favicon.ico HTTP/1.1" 404 2145
+INFO 2020-12-16 11:29:04,276 basehttp 157 "GET /register/ HTTP/1.1" 200 3632
+INFO 2020-12-16 11:29:06,971 basehttp 157 "GET /register/ HTTP/1.1" 200 3632
+INFO 2020-12-16 11:30:24,942 basehttp 157 "GET /register/ HTTP/1.1" 200 3664
+INFO 2020-12-16 11:30:24,976 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2020-12-16 11:31:07,522 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 11:31:17,834 basehttp 157 "GET /register/ HTTP/1.1" 200 3572
+WARNING 2020-12-16 11:31:17,986 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 11:38:13,404 basehttp 157 "GET /register/ HTTP/1.1" 200 3618
+INFO 2020-12-16 11:38:13,468 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2020-12-16 11:38:13,501 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 11:38:14,274 basehttp 157 "GET /register/ HTTP/1.1" 200 3618
+WARNING 2020-12-16 11:38:14,353 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 11:38:14,993 basehttp 157 "GET /register/ HTTP/1.1" 200 3618
+WARNING 2020-12-16 11:38:15,049 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 11:38:15,443 basehttp 157 "GET /register/ HTTP/1.1" 200 3618
+WARNING 2020-12-16 11:38:15,513 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 11:38:15,723 basehttp 157 "GET /register/ HTTP/1.1" 200 3618
+WARNING 2020-12-16 11:38:15,787 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 11:38:15,933 basehttp 157 "GET /register/ HTTP/1.1" 200 3618
+WARNING 2020-12-16 11:38:15,998 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 11:38:16,171 basehttp 157 "GET /register/ HTTP/1.1" 200 3618
+WARNING 2020-12-16 11:38:16,251 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 11:38:16,403 basehttp 157 "GET /register/ HTTP/1.1" 200 3618
+WARNING 2020-12-16 11:38:16,467 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 11:38:16,647 basehttp 157 "GET /register/ HTTP/1.1" 200 3618
+WARNING 2020-12-16 11:38:16,729 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 11:38:16,849 basehttp 157 "GET /register/ HTTP/1.1" 200 3618
+WARNING 2020-12-16 11:38:16,910 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 11:42:01,568 basehttp 157 "GET /register/ HTTP/1.1" 200 3618
+INFO 2020-12-16 11:42:01,602 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-16 11:42:02,377 basehttp 157 "GET /register/ HTTP/1.1" 200 3618
+INFO 2020-12-16 11:42:02,932 basehttp 157 "GET /register/ HTTP/1.1" 200 3618
+INFO 2020-12-16 11:43:14,129 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 11:43:19,252 basehttp 157 "GET /register/ HTTP/1.1" 200 3462
+WARNING 2020-12-16 11:43:35,437 log 230 Forbidden (CSRF token missing or incorrect.): /register/
+WARNING 2020-12-16 11:43:35,438 basehttp 157 "POST /register/ HTTP/1.1" 403 2513
+INFO 2020-12-16 11:44:06,433 basehttp 157 "GET /register/ HTTP/1.1" 200 3618
+INFO 2020-12-16 11:44:08,403 basehttp 157 "GET /register/ HTTP/1.1" 200 3618
+INFO 2020-12-16 11:45:08,283 basehttp 157 "GET /register/ HTTP/1.1" 200 3574
+INFO 2020-12-16 11:45:08,315 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-16 11:45:09,084 basehttp 157 "GET /register/ HTTP/1.1" 200 3574
+INFO 2020-12-16 11:45:09,767 basehttp 157 "GET /register/ HTTP/1.1" 200 3574
+INFO 2020-12-16 11:45:11,288 basehttp 157 "GET /register/ HTTP/1.1" 200 3574
+WARNING 2020-12-16 11:45:19,061 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 11:45:24,233 basehttp 157 "GET /register/ HTTP/1.1" 200 3574
+WARNING 2020-12-16 11:45:24,308 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 11:46:09,349 basehttp 157 "GET /register/ HTTP/1.1" 200 3574
+WARNING 2020-12-16 11:46:09,438 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 11:47:45,219 basehttp 157 "GET /register/ HTTP/1.1" 200 3437
+WARNING 2020-12-16 11:47:45,286 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 11:48:46,718 basehttp 157 "GET /register/ HTTP/1.1" 200 3605
+INFO 2020-12-16 11:48:46,757 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 3908
+INFO 2020-12-16 11:49:22,516 basehttp 157 "GET /register/ HTTP/1.1" 200 3605
+INFO 2020-12-16 11:49:22,556 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-16 11:57:09,548 basehttp 157 "GET /register/ HTTP/1.1" 200 3605
+INFO 2020-12-16 11:57:09,650 basehttp 157 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-12-16 11:57:09,652 basehttp 157 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-12-16 11:57:09,767 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 4144
+INFO 2020-12-16 11:57:09,776 basehttp 157 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2020-12-16 11:57:09,786 basehttp 157 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-12-16 11:57:10,597 basehttp 157 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-12-16 11:57:10,601 basehttp 157 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-12-16 11:57:10,606 basehttp 157 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+WARNING 2020-12-16 11:57:22,015 log 230 Forbidden (CSRF token missing or incorrect.): /register/
+WARNING 2020-12-16 11:57:22,016 basehttp 157 "POST /register/ HTTP/1.1" 403 2513
+INFO 2020-12-16 11:57:24,371 basehttp 157 "GET /register/ HTTP/1.1" 200 3605
+INFO 2020-12-16 11:57:24,422 basehttp 157 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-12-16 11:57:24,430 basehttp 157 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-12-16 11:57:24,500 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 4144
+INFO 2020-12-16 11:57:24,507 basehttp 157 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2020-12-16 11:57:24,511 basehttp 157 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-12-16 11:57:25,094 basehttp 157 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-12-16 11:57:25,097 basehttp 157 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-12-16 11:57:25,103 basehttp 157 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2020-12-16 11:57:32,400 basehttp 157 "GET /register/ HTTP/1.1" 200 3605
+INFO 2020-12-16 11:57:46,567 basehttp 157 "GET /register/ HTTP/1.1" 200 3605
+INFO 2020-12-16 11:58:24,286 basehttp 157 "GET /register/ HTTP/1.1" 200 3605
+INFO 2020-12-16 11:58:24,319 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-16 11:58:25,311 basehttp 157 "GET /register/ HTTP/1.1" 200 3605
+INFO 2020-12-16 12:17:23,191 basehttp 157 "GET /register/ HTTP/1.1" 200 3605
+INFO 2020-12-16 12:17:23,224 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-16 12:17:23,873 basehttp 157 "GET /register/ HTTP/1.1" 200 3605
+INFO 2020-12-16 12:17:24,120 basehttp 157 "GET /register/ HTTP/1.1" 200 3605
+INFO 2020-12-16 12:18:31,897 basehttp 157 "GET /register/ HTTP/1.1" 200 3602
+INFO 2020-12-16 12:18:45,237 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 12:18:51,259 basehttp 157 "GET /register/ HTTP/1.1" 200 3602
+INFO 2020-12-16 12:18:54,099 basehttp 157 "GET /register/ HTTP/1.1" 200 3602
+INFO 2020-12-16 12:19:52,937 basehttp 157 "GET /register/ HTTP/1.1" 200 3606
+INFO 2020-12-16 12:19:52,999 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-16 12:21:04,916 basehttp 157 "GET /register/ HTTP/1.1" 200 3595
+WARNING 2020-12-16 12:21:05,046 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 12:21:10,125 basehttp 157 "GET /register/ HTTP/1.1" 200 3595
+WARNING 2020-12-16 12:21:10,211 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 12:21:47,628 basehttp 157 "GET /register/ HTTP/1.1" 200 3606
+WARNING 2020-12-16 12:21:58,544 log 230 Forbidden (CSRF token missing or incorrect.): /register/
+WARNING 2020-12-16 12:21:58,545 basehttp 157 "POST /register/ HTTP/1.1" 403 2513
+INFO 2020-12-16 12:23:02,766 basehttp 157 "GET /register/ HTTP/1.1" 200 3613
+INFO 2020-12-16 12:23:02,806 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-16 12:27:55,761 basehttp 157 "GET /register/ HTTP/1.1" 200 7989
+INFO 2020-12-16 12:27:56,749 basehttp 157 "GET /register/ HTTP/1.1" 200 7989
+INFO 2020-12-16 12:31:08,644 basehttp 157 "GET /register/ HTTP/1.1" 200 7537
+INFO 2020-12-16 12:32:17,956 basehttp 157 "GET /register/ HTTP/1.1" 200 7618
+WARNING 2020-12-16 12:32:18,057 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 12:49:00,348 basehttp 157 "GET /register/ HTTP/1.1" 200 7605
+WARNING 2020-12-16 12:49:00,518 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 12:49:01,743 basehttp 157 "GET /register/ HTTP/1.1" 200 7605
+WARNING 2020-12-16 12:49:01,847 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 12:49:59,300 basehttp 157 "GET /register/ HTTP/1.1" 200 7628
+INFO 2020-12-16 12:50:00,116 basehttp 157 "GET /register/ HTTP/1.1" 200 7628
+INFO 2020-12-16 12:52:19,678 basehttp 157 "GET /register/ HTTP/1.1" 200 7628
+INFO 2020-12-16 12:52:45,669 basehttp 157 "GET /register/ HTTP/1.1" 200 7620
+INFO 2020-12-16 12:53:51,098 basehttp 157 "GET /register/ HTTP/1.1" 200 7597
+INFO 2020-12-16 12:56:35,469 basehttp 157 "GET /register/ HTTP/1.1" 200 7564
+INFO 2020-12-16 12:57:26,113 basehttp 157 "GET /register/ HTTP/1.1" 200 7587
+INFO 2020-12-16 12:57:29,478 basehttp 157 "GET /register/ HTTP/1.1" 200 7587
+INFO 2020-12-16 12:57:40,027 basehttp 157 "GET /register/ HTTP/1.1" 200 7588
+INFO 2020-12-16 12:58:51,938 basehttp 157 "GET /register/ HTTP/1.1" 200 7588
+INFO 2020-12-16 13:09:30,454 basehttp 157 "GET /register/ HTTP/1.1" 200 7575
+WARNING 2020-12-16 13:09:44,176 log 230 Forbidden (CSRF token missing or incorrect.): /register/
+WARNING 2020-12-16 13:09:44,176 basehttp 157 "POST /register/ HTTP/1.1" 403 2513
+WARNING 2020-12-16 13:09:58,891 log 230 Forbidden (CSRF token missing or incorrect.): /register/
+WARNING 2020-12-16 13:09:58,893 basehttp 157 "POST /register/ HTTP/1.1" 403 2513
+INFO 2020-12-16 13:23:38,230 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 13:25:50,506 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 13:28:13,945 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 13:28:35,188 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 13:31:39,403 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 13:32:30,291 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 13:33:31,069 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 13:33:38,278 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/settings/dev.py changed, reloading.
+INFO 2020-12-16 13:33:38,592 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 13:33:44,810 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/settings/dev.py changed, reloading.
+INFO 2020-12-16 13:33:45,269 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 13:33:50,867 basehttp 157 "GET /admin/ HTTP/1.1" 302 0
+INFO 2020-12-16 13:33:50,957 basehttp 157 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2198
+INFO 2020-12-16 13:33:51,012 basehttp 157 "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2020-12-16 13:33:51,012 basehttp 157 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2020-12-16 13:33:51,017 basehttp 157 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2020-12-16 13:33:51,020 basehttp 157 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2020-12-16 13:33:51,034 basehttp 157 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2020-12-16 13:33:51,061 basehttp 157 "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+INFO 2020-12-16 13:33:51,127 basehttp 157 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+INFO 2020-12-16 13:33:51,130 basehttp 157 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+INFO 2020-12-16 13:34:10,496 basehttp 157 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2198
+INFO 2020-12-16 13:34:15,329 basehttp 157 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2357
+INFO 2020-12-16 13:34:15,397 basehttp 157 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2020-12-16 13:39:01,292 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 13:39:17,635 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/contents/urls.py changed, reloading.
+INFO 2020-12-16 13:39:18,030 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 13:39:26,670 basehttp 157 "GET / HTTP/1.1" 200 39085
+INFO 2020-12-16 13:39:26,722 basehttp 157 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2020-12-16 13:39:26,755 basehttp 157 "GET /static/js/slide.js HTTP/1.1" 200 1822
+INFO 2020-12-16 13:39:26,778 basehttp 157 "GET /static/images/goods/goods002.jpg HTTP/1.1" 200 5377
+INFO 2020-12-16 13:39:26,779 basehttp 157 "GET /static/images/goods/goods001.jpg HTTP/1.1" 200 5391
+INFO 2020-12-16 13:39:26,781 basehttp 157 "GET /static/images/slide01.jpg HTTP/1.1" 200 67813
+INFO 2020-12-16 13:39:26,782 basehttp 157 "GET /static/images/slide03.jpg HTTP/1.1" 200 70152
+INFO 2020-12-16 13:39:26,783 basehttp 157 "GET /static/images/slide02.jpg HTTP/1.1" 200 89905
+INFO 2020-12-16 13:39:26,791 basehttp 157 "GET /static/images/slide04.jpg HTTP/1.1" 200 107973
+INFO 2020-12-16 13:39:26,797 basehttp 157 "GET /static/images/banner01.jpg HTTP/1.1" 200 23658
+INFO 2020-12-16 13:39:26,799 basehttp 157 "GET /static/images/goods/goods003.jpg HTTP/1.1" 200 8579
+INFO 2020-12-16 13:39:26,799 basehttp 157 "GET /static/images/goods/goods004.jpg HTTP/1.1" 200 6565
+INFO 2020-12-16 13:39:26,803 basehttp 157 "GET /static/images/goods/goods005.jpg HTTP/1.1" 200 7578
+INFO 2020-12-16 13:39:26,804 basehttp 157 "GET /static/images/banner02.jpg HTTP/1.1" 200 26729
+INFO 2020-12-16 13:39:26,806 basehttp 157 "GET /static/images/goods/goods008.jpg HTTP/1.1" 200 7072
+INFO 2020-12-16 13:39:26,807 basehttp 157 "GET /static/images/banner03.jpg HTTP/1.1" 200 22681
+INFO 2020-12-16 13:39:26,811 basehttp 157 "GET /static/images/icons.png HTTP/1.1" 200 7740
+INFO 2020-12-16 13:39:26,812 basehttp 157 "GET /static/images/goods/goods009.jpg HTTP/1.1" 200 8738
+INFO 2020-12-16 13:39:26,820 basehttp 157 "GET /static/js/index.js HTTP/1.1" 200 1143
+WARNING 2020-12-16 13:39:34,983 log 230 Not Found: /login.html
+WARNING 2020-12-16 13:39:34,984 basehttp 157 "GET /login.html HTTP/1.1" 404 2303
+WARNING 2020-12-16 13:39:45,321 log 230 Not Found: /register.html
+WARNING 2020-12-16 13:39:45,321 basehttp 157 "GET /register.html HTTP/1.1" 404 2312
+WARNING 2020-12-16 13:39:53,074 log 230 Not Found: /register.html
+WARNING 2020-12-16 13:39:53,074 basehttp 157 "GET /register.html HTTP/1.1" 404 2312
+WARNING 2020-12-16 13:40:00,558 log 230 Not Found: /register.html
+WARNING 2020-12-16 13:40:00,559 basehttp 157 "GET /register.html HTTP/1.1" 404 2312
+WARNING 2020-12-16 13:40:35,519 log 230 Not Found: /register.html
+WARNING 2020-12-16 13:40:35,520 basehttp 157 "GET /register.html HTTP/1.1" 404 2312
+INFO 2020-12-16 13:40:50,673 basehttp 157 "GET /register/ HTTP/1.1" 200 7575
+INFO 2020-12-16 13:40:52,344 basehttp 157 "GET /admin/ HTTP/1.1" 302 0
+INFO 2020-12-16 13:40:52,422 basehttp 157 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2198
+INFO 2020-12-16 13:40:53,391 basehttp 157 "GET /admin/ HTTP/1.1" 302 0
+INFO 2020-12-16 13:40:53,426 basehttp 157 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2198
+WARNING 2020-12-16 13:41:49,486 log 230 Forbidden (CSRF token missing or incorrect.): /register/
+WARNING 2020-12-16 13:41:49,487 basehttp 157 "POST /register/ HTTP/1.1" 403 2513
+WARNING 2020-12-16 13:43:03,984 log 230 Forbidden (CSRF token missing or incorrect.): /register/
+WARNING 2020-12-16 13:43:03,986 basehttp 157 "POST /register/ HTTP/1.1" 403 2513
+WARNING 2020-12-16 13:43:17,819 log 230 Forbidden (CSRF token missing or incorrect.): /register/
+WARNING 2020-12-16 13:43:17,819 basehttp 157 "POST /register/ HTTP/1.1" 403 2513
+INFO 2020-12-16 13:44:27,519 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/settings/dev.py changed, reloading.
+INFO 2020-12-16 13:44:28,186 autoreload 617 Watching for file changes with StatReloader
+WARNING 2020-12-16 13:44:38,263 log 230 Forbidden: /register/
+WARNING 2020-12-16 13:44:38,263 basehttp 157 "POST /register/ HTTP/1.1" 403 31
+INFO 2020-12-16 13:46:03,904 basehttp 157 "GET /register/ HTTP/1.1" 200 7739
+INFO 2020-12-16 13:47:19,341 basehttp 157 "GET /register/ HTTP/1.1" 200 7720
+INFO 2020-12-16 13:47:21,565 basehttp 157 "GET /register/ HTTP/1.1" 200 7720
+WARNING 2020-12-16 13:47:35,497 log 230 Forbidden: /register/
+WARNING 2020-12-16 13:47:35,498 basehttp 157 "POST /register/ HTTP/1.1" 403 31
+WARNING 2020-12-16 13:47:50,823 log 230 Forbidden: /register/
+WARNING 2020-12-16 13:47:50,823 basehttp 157 "POST /register/ HTTP/1.1" 403 31
+WARNING 2020-12-16 13:47:51,559 log 230 Forbidden: /register/
+WARNING 2020-12-16 13:47:51,560 basehttp 157 "POST /register/ HTTP/1.1" 403 31
+ERROR 2020-12-16 13:50:07,781 log 230 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/template/backends/jinja2.py", line 41, in get_template
+    return Template(self.env.get_template(template_name), self)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/jinja2/environment.py", line 883, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/jinja2/environment.py", line 857, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/jinja2/loaders.py", line 127, in load
+    code = environment.compile(source, name, filename)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/jinja2/environment.py", line 638, in compile
+    self.handle_exception(source=source_hint)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/jinja2/environment.py", line 832, in handle_exception
+    reraise(*rewrite_traceback_stack(source=source))
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/jinja2/_compat.py", line 28, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/templates/register.html", line 40, in template
+    {% csrf_token %}
+jinja2.exceptions.TemplateSyntaxError: Encountered unknown tag 'csrf_token'.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py", line 12, in get
+    return render(request,'register.html')
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/template/loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/template/backends/jinja2.py", line 47, in get_template
+    raise new from exc
+django.template.exceptions.TemplateSyntaxError: ("Encountered unknown tag 'csrf_token'.",)
+ERROR 2020-12-16 13:50:07,785 basehttp 157 "GET /register/ HTTP/1.1" 500 154820
+INFO 2020-12-16 13:50:56,028 basehttp 157 "GET /register/ HTTP/1.1" 200 7806
+WARNING 2020-12-16 13:51:49,093 log 230 Forbidden: /register/
+WARNING 2020-12-16 13:51:49,094 basehttp 157 "POST /register/ HTTP/1.1" 403 31
+WARNING 2020-12-16 13:52:26,287 log 230 Forbidden: /register/
+WARNING 2020-12-16 13:52:26,288 basehttp 157 "POST /register/ HTTP/1.1" 403 31
+WARNING 2020-12-16 13:52:27,041 log 230 Forbidden: /register/
+WARNING 2020-12-16 13:52:27,041 basehttp 157 "POST /register/ HTTP/1.1" 403 31
+INFO 2020-12-16 13:52:28,288 basehttp 157 "GET /register/ HTTP/1.1" 200 7721
+INFO 2020-12-16 13:57:07,193 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 13:57:07,971 autoreload 617 Watching for file changes with StatReloader
+WARNING 2020-12-16 13:57:21,891 log 230 Forbidden: /register/
+WARNING 2020-12-16 13:57:21,892 basehttp 157 "POST /register/ HTTP/1.1" 403 35
+INFO 2020-12-16 13:57:48,851 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 13:57:49,517 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 14:02:54,760 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 14:02:55,414 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 14:03:01,310 basehttp 157 "GET /admin/ HTTP/1.1" 302 0
+INFO 2020-12-16 14:03:01,408 basehttp 157 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2198
+INFO 2020-12-16 14:03:06,868 basehttp 157 "GET /admin/ HTTP/1.1" 302 0
+INFO 2020-12-16 14:03:06,896 basehttp 157 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2198
+INFO 2020-12-16 14:03:10,677 basehttp 157 "GET /register/ HTTP/1.1" 200 7721
+WARNING 2020-12-16 14:03:24,395 log 230 Forbidden: /register/
+WARNING 2020-12-16 14:03:24,396 basehttp 157 "POST /register/ HTTP/1.1" 403 31
+INFO 2020-12-16 14:04:12,838 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 14:04:13,473 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 14:04:27,045 basehttp 157 "POST /register/ HTTP/1.1" 200 6
+INFO 2020-12-16 14:05:44,072 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 14:05:44,526 autoreload 617 Watching for file changes with StatReloader
+WARNING 2020-12-16 14:05:48,146 log 230 Forbidden: /register/
+WARNING 2020-12-16 14:05:48,146 basehttp 157 "POST /register/ HTTP/1.1" 403 25
+INFO 2020-12-16 14:05:52,124 basehttp 157 "GET /register/ HTTP/1.1" 200 7721
+WARNING 2020-12-16 14:06:04,602 log 230 Forbidden: /register/
+WARNING 2020-12-16 14:06:04,603 basehttp 157 "POST /register/ HTTP/1.1" 403 25
+WARNING 2020-12-16 14:06:38,278 log 230 Forbidden: /register/
+WARNING 2020-12-16 14:06:38,279 basehttp 157 "POST /register/ HTTP/1.1" 403 25
+INFO 2020-12-16 14:07:14,157 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 14:07:14,879 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 14:07:15,314 basehttp 157 "POST /register/ HTTP/1.1" 200 7721
+INFO 2020-12-16 14:07:29,062 basehttp 157 "POST /register/ HTTP/1.1" 200 7721
+INFO 2020-12-16 14:08:01,749 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 14:08:02,166 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 14:08:12,588 basehttp 157 "POST /register/ HTTP/1.1" 200 7721
+INFO 2020-12-16 14:09:34,710 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 14:09:35,289 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 14:09:36,375 basehttp 157 "POST /register/ HTTP/1.1" 200 39085
+WARNING 2020-12-16 14:09:36,602 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 14:10:10,973 basehttp 157 "GET /register/ HTTP/1.1" 200 7721
+INFO 2020-12-16 14:10:25,859 basehttp 157 "POST /register/ HTTP/1.1" 200 39085
+WARNING 2020-12-16 14:10:25,967 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+WARNING 2020-12-16 14:11:38,893 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 14:25:38,747 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 14:25:39,451 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 14:25:41,277 basehttp 157 "GET /register/ HTTP/1.1" 200 7721
+WARNING 2020-12-16 14:25:57,878 log 230 Forbidden: /register/
+WARNING 2020-12-16 14:25:57,879 basehttp 157 "POST /register/ HTTP/1.1" 403 31
+INFO 2020-12-16 14:26:36,510 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 14:26:37,311 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 14:26:42,958 basehttp 157 "GET /register/ HTTP/1.1" 200 7721
+INFO 2020-12-16 14:26:57,463 basehttp 157 "POST /register/ HTTP/1.1" 200 7721
+INFO 2020-12-16 14:27:12,064 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 14:27:12,846 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 14:27:14,409 basehttp 157 "GET /register/ HTTP/1.1" 200 7721
+INFO 2020-12-16 14:27:30,030 basehttp 157 "POST /register/ HTTP/1.1" 200 7721
+INFO 2020-12-16 14:28:25,244 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 14:28:25,688 autoreload 617 Watching for file changes with StatReloader
+WARNING 2020-12-16 14:28:40,980 log 230 Forbidden: /register/
+WARNING 2020-12-16 14:28:40,981 basehttp 157 "POST /register/ HTTP/1.1" 403 31
+INFO 2020-12-16 14:28:57,352 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 14:28:57,787 autoreload 617 Watching for file changes with StatReloader
+WARNING 2020-12-16 14:28:58,391 log 230 Forbidden: /register/
+WARNING 2020-12-16 14:28:58,392 basehttp 157 "POST /register/ HTTP/1.1" 403 31
+WARNING 2020-12-16 14:28:59,350 log 230 Forbidden: /register/
+WARNING 2020-12-16 14:28:59,351 basehttp 157 "POST /register/ HTTP/1.1" 403 31
+INFO 2020-12-16 14:29:00,809 basehttp 157 "GET /register/ HTTP/1.1" 200 7721
+WARNING 2020-12-16 14:29:15,512 log 230 Forbidden: /register/
+WARNING 2020-12-16 14:29:15,513 basehttp 157 "POST /register/ HTTP/1.1" 403 31
+INFO 2020-12-16 14:30:10,010 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 14:30:10,728 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 14:30:12,341 basehttp 157 "GET /register/ HTTP/1.1" 200 7721
+ERROR 2020-12-16 14:30:23,956 log 230 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py", line 24, in post
+    if not re.match(r'^[0-9A-Za-/z]{5,20}$', username):
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/re.py", line 173, in match
+    return _compile(pattern, flags).match(string)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/re.py", line 286, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/sre_compile.py", line 764, in compile
+    p = sre_parse.parse(p, flags)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/sre_parse.py", line 930, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/sre_parse.py", line 426, in _parse_sub
+    not nested and not items))
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/sre_parse.py", line 580, in _parse
+    raise source.error(msg, len(this) + 1 + len(that))
+re.error: bad character range a-/ at position 8
+ERROR 2020-12-16 14:30:23,958 basehttp 157 "POST /register/ HTTP/1.1" 500 101106
+INFO 2020-12-16 14:31:25,071 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 14:31:25,580 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 14:31:27,950 basehttp 157 "GET /register/ HTTP/1.1" 200 7721
+INFO 2020-12-16 14:31:40,997 basehttp 157 "POST /register/ HTTP/1.1" 200 7721
+INFO 2020-12-16 14:34:11,229 basehttp 157 "GET / HTTP/1.1" 200 39085
+WARNING 2020-12-16 14:34:11,485 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 14:35:28,794 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 14:35:29,491 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 14:36:35,593 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 14:36:36,048 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 14:37:12,649 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 14:37:13,066 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 14:37:25,382 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 14:37:25,829 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 14:38:04,678 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 14:38:05,374 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 14:38:25,799 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 14:38:26,494 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 14:38:39,805 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 14:38:40,483 autoreload 617 Watching for file changes with StatReloader
+WARNING 2020-12-16 14:39:26,133 log 230 Not Found: /login.html
+WARNING 2020-12-16 14:39:26,134 basehttp 157 "GET /login.html HTTP/1.1" 404 2303
+WARNING 2020-12-16 14:39:30,689 log 230 Not Found: /login/.html
+WARNING 2020-12-16 14:39:30,690 basehttp 157 "GET /login/.html HTTP/1.1" 404 2306
+WARNING 2020-12-16 14:39:41,272 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+WARNING 2020-12-16 14:39:44,527 log 230 Not Found: /register.html
+WARNING 2020-12-16 14:39:44,528 basehttp 157 "GET /register.html HTTP/1.1" 404 2312
+WARNING 2020-12-16 14:40:05,096 log 230 Not Found: /register/.html
+WARNING 2020-12-16 14:40:05,097 basehttp 157 "GET /register/.html HTTP/1.1" 404 2315
+INFO 2020-12-16 14:40:10,181 basehttp 157 "GET /register/ HTTP/1.1" 200 7721
+INFO 2020-12-16 14:41:35,531 basehttp 157 "POST /register/ HTTP/1.1" 200 7721
+INFO 2020-12-16 14:43:07,610 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 14:43:08,324 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 14:43:18,691 basehttp 157 "POST /register/ HTTP/1.1" 200 7721
+INFO 2020-12-16 14:45:21,553 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 14:45:22,195 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 14:45:33,306 basehttp 157 "POST /register/ HTTP/1.1" 200 7721
+INFO 2020-12-16 14:48:26,693 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 14:48:34,241 basehttp 157 "GET /register/ HTTP/1.1" 200 3910
+INFO 2020-12-16 14:48:34,283 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 7478
+INFO 2020-12-16 14:49:38,077 basehttp 157 "GET /register/ HTTP/1.1" 200 3769
+INFO 2020-12-16 14:49:38,104 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2020-12-16 14:51:02,535 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 14:51:13,445 basehttp 157 "GET /register/ HTTP/1.1" 200 3769
+INFO 2020-12-16 14:51:13,514 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2020-12-16 14:51:13,582 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 14:53:00,936 basehttp 157 "GET /register/ HTTP/1.1" 200 8612
+INFO 2020-12-16 14:53:00,980 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 2919
+INFO 2020-12-16 14:53:48,470 basehttp 157 "GET /register/ HTTP/1.1" 200 8528
+INFO 2020-12-16 14:53:48,513 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-16 14:54:05,618 basehttp 157 "POST /register/ HTTP/1.1" 200 8528
+INFO 2020-12-16 14:54:05,645 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-16 14:56:19,701 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 14:56:20,441 autoreload 617 Watching for file changes with StatReloader
+ERROR 2020-12-16 14:56:24,219 log 230 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/db/backends/mysql/base.py", line 73, in execute
+    return self.cursor.execute(query, args)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/MySQLdb/cursors.py", line 206, in execute
+    res = self._query(query)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/MySQLdb/cursors.py", line 319, in _query
+    db.query(q)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/MySQLdb/connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.IntegrityError: (1062, "Duplicate entry '13110262057' for key 'tb_users.mobile'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py", line 109, in post
+    user = User.objects.create_user(username=username, password=password, mobile=mobile)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/contrib/auth/models.py", line 146, in create_user
+    return self._create_user(username, email, password, **extra_fields)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/contrib/auth/models.py", line 140, in _create_user
+    user.save(using=self._db)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/contrib/auth/base_user.py", line 67, in save
+    super().save(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/db/models/base.py", line 754, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/db/models/base.py", line 792, in save_base
+    force_update, using, update_fields,
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/db/models/base.py", line 935, in _do_insert
+    using=using, raw=raw,
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/db/models/query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/db/models/sql/compiler.py", line 1397, in execute_sql
+    cursor.execute(sql, params)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/db/backends/mysql/base.py", line 73, in execute
+    return self.cursor.execute(query, args)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/MySQLdb/cursors.py", line 206, in execute
+    res = self._query(query)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/MySQLdb/cursors.py", line 319, in _query
+    db.query(q)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/MySQLdb/connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1062, "Duplicate entry '13110262057' for key 'tb_users.mobile'")
+ERROR 2020-12-16 14:56:24,223 basehttp 157 "POST /register/ HTTP/1.1" 500 199137
+INFO 2020-12-16 14:59:10,662 basehttp 157 "GET /register/ HTTP/1.1" 200 8528
+INFO 2020-12-16 14:59:10,724 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-16 14:59:30,459 basehttp 157 "POST /register/ HTTP/1.1" 302 0
+INFO 2020-12-16 14:59:30,477 basehttp 157 "GET / HTTP/1.1" 200 39085
+INFO 2020-12-16 15:06:20,445 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 15:06:21,163 autoreload 617 Watching for file changes with StatReloader
+WARNING 2020-12-16 15:08:45,514 log 230 Not Found: /register.html
+WARNING 2020-12-16 15:08:45,515 basehttp 157 "GET /register.html HTTP/1.1" 404 2312
+INFO 2020-12-16 15:08:50,744 basehttp 157 "GET /register/ HTTP/1.1" 200 8555
+INFO 2020-12-16 15:08:50,799 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-16 15:17:16,365 basehttp 157 "GET /register/ HTTP/1.1" 200 8584
+INFO 2020-12-16 15:17:16,494 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-16 15:18:33,436 basehttp 157 "GET /register/ HTTP/1.1" 200 8584
+INFO 2020-12-16 15:20:59,556 basehttp 157 "GET /register/ HTTP/1.1" 200 4548
+INFO 2020-12-16 15:20:59,585 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-16 15:22:29,415 basehttp 157 "GET /register/ HTTP/1.1" 200 4521
+INFO 2020-12-16 15:22:50,827 basehttp 157 "POST /register/ HTTP/1.1" 200 4626
+WARNING 2020-12-16 15:54:05,009 log 230 Not Found: /register/login.html
+WARNING 2020-12-16 15:54:05,011 basehttp 157 "GET /register/login.html HTTP/1.1" 404 2330
+INFO 2020-12-16 16:01:10,954 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 16:01:11,781 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 16:01:55,598 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 16:01:56,227 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 16:02:30,905 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 16:02:31,561 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 16:07:41,074 basehttp 157 "POST /register/ HTTP/1.1" 302 0
+INFO 2020-12-16 16:07:41,096 basehttp 157 "GET / HTTP/1.1" 200 39085
+INFO 2020-12-16 16:20:15,568 basehttp 157 "GET / HTTP/1.1" 200 39085
+WARNING 2020-12-16 16:20:17,703 log 230 Not Found: /login.html
+WARNING 2020-12-16 16:20:17,703 basehttp 157 "GET /login.html HTTP/1.1" 404 2303
+WARNING 2020-12-16 16:20:28,359 log 230 Not Found: /user_center_order.html
+WARNING 2020-12-16 16:20:28,360 basehttp 157 "GET /user_center_order.html HTTP/1.1" 404 2339
+INFO 2020-12-16 16:23:48,305 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 16:23:49,067 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 16:32:58,010 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 16:32:58,843 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 16:35:28,063 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 16:35:28,614 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 16:38:52,508 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/views.py changed, reloading.
+INFO 2020-12-16 16:38:52,953 autoreload 617 Watching for file changes with StatReloader
+WARNING 2020-12-16 16:41:05,189 log 230 Not Found: /username/python/count/
+WARNING 2020-12-16 16:41:05,191 basehttp 157 "GET /username/python/count/ HTTP/1.1" 404 2541
+INFO 2020-12-16 16:42:25,980 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/urls.py changed, reloading.
+INFO 2020-12-16 16:42:26,439 autoreload 617 Watching for file changes with StatReloader
+WARNING 2020-12-16 16:42:27,921 log 230 Not Found: /username/python/count/
+WARNING 2020-12-16 16:42:27,922 basehttp 157 "GET /username/python/count/ HTTP/1.1" 404 2541
+WARNING 2020-12-16 16:44:23,870 log 230 Not Found: /username/python/count/
+WARNING 2020-12-16 16:44:23,871 basehttp 157 "GET /username/python/count/ HTTP/1.1" 404 2541
+WARNING 2020-12-16 16:44:26,288 log 230 Not Found: /username/python/count/
+WARNING 2020-12-16 16:44:26,288 basehttp 157 "GET /username/python/count/ HTTP/1.1" 404 2541
+INFO 2020-12-16 16:46:04,860 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/urls.py changed, reloading.
+INFO 2020-12-16 16:46:05,574 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 16:48:13,426 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/urls.py changed, reloading.
+INFO 2020-12-16 16:48:13,883 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 16:48:30,210 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/users/urls.py changed, reloading.
+INFO 2020-12-16 16:48:30,614 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 16:48:32,244 basehttp 157 "GET /username/python/count/ HTTP/1.1" 200 41
+INFO 2020-12-16 17:11:45,777 basehttp 157 "GET /register/ HTTP/1.1" 200 4521
+INFO 2020-12-16 17:11:45,846 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 3577
+WARNING 2020-12-16 17:11:51,156 log 230 Not Found: /register/re_path
+WARNING 2020-12-16 17:11:51,156 basehttp 157 "GET /register/re_path HTTP/1.1" 404 2524
+WARNING 2020-12-16 17:12:45,334 log 230 Not Found: /register/re_path
+WARNING 2020-12-16 17:12:45,335 basehttp 157 "GET /register/re_path HTTP/1.1" 404 2524
+WARNING 2020-12-16 17:13:08,530 log 230 Not Found: /register/re_path
+WARNING 2020-12-16 17:13:08,531 basehttp 157 "GET /register/re_path HTTP/1.1" 404 2524
+WARNING 2020-12-16 17:15:37,367 log 230 Not Found: /register/re_path
+WARNING 2020-12-16 17:15:37,367 basehttp 157 "GET /register/re_path HTTP/1.1" 404 2524
+WARNING 2020-12-16 17:15:46,085 log 230 Not Found: /register/re_path
+WARNING 2020-12-16 17:15:46,085 basehttp 157 "GET /register/re_path HTTP/1.1" 404 2524
+WARNING 2020-12-16 17:16:16,517 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+WARNING 2020-12-16 17:25:13,713 log 230 Not Found: /register/re_path
+WARNING 2020-12-16 17:25:13,715 basehttp 157 "GET /register/re_path HTTP/1.1" 404 2524
+WARNING 2020-12-16 17:26:00,769 log 230 Not Found: /register/re_path
+WARNING 2020-12-16 17:26:00,770 basehttp 157 "GET /register/re_path HTTP/1.1" 404 2524
+INFO 2020-12-16 17:26:20,087 basehttp 157 "GET /register/ HTTP/1.1" 200 4521
+INFO 2020-12-16 17:26:20,139 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 3786
+WARNING 2020-12-16 17:26:20,861 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+WARNING 2020-12-16 17:26:27,376 log 230 Not Found: /usernames/python/count/
+WARNING 2020-12-16 17:26:27,376 basehttp 157 "GET /usernames/python/count/ HTTP/1.1" 404 2545
+WARNING 2020-12-16 17:26:48,327 log 230 Not Found: /usernames/python/count/
+WARNING 2020-12-16 17:26:48,327 basehttp 157 "GET /usernames/python/count/ HTTP/1.1" 404 2545
+INFO 2020-12-16 17:26:54,962 basehttp 157 "GET /register/ HTTP/1.1" 200 4521
+INFO 2020-12-16 17:26:55,010 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 3785
+WARNING 2020-12-16 17:26:57,767 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 17:27:14,254 basehttp 157 "GET /username/python/count/ HTTP/1.1" 200 41
+INFO 2020-12-16 17:27:24,458 basehttp 157 "GET /username/python222/count/ HTTP/1.1" 200 41
+INFO 2020-12-16 17:27:40,999 basehttp 157 "POST /register/ HTTP/1.1" 302 0
+INFO 2020-12-16 17:27:41,016 basehttp 157 "GET / HTTP/1.1" 200 39085
+WARNING 2020-12-16 17:27:41,168 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 17:28:30,645 basehttp 157 "GET /register/ HTTP/1.1" 200 4521
+INFO 2020-12-16 17:28:30,732 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 3779
+WARNING 2020-12-16 17:28:32,037 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 17:28:35,373 basehttp 157 "GET /username/python/count/ HTTP/1.1" 200 41
+INFO 2020-12-16 17:28:41,961 basehttp 157 "GET /username/python2/count/ HTTP/1.1" 200 41
+INFO 2020-12-16 17:28:52,163 basehttp 157 "POST /register/ HTTP/1.1" 200 4626
+INFO 2020-12-16 17:28:52,203 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2020-12-16 17:28:52,474 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
