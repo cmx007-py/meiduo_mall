@@ -1,53 +1,12 @@
-# from django.shortcuts import render,redirect
-# from django.views import View
-# from django.http import JsonResponse,HttpResponse
-# from django import http
-# import re
-# from django.db import DatabaseError
-# from .models import User
-# from django.urls import reverse
-# # Create your views here.
-#
-# class RegisterView(View):
-#     def get(self,request):
-#         return render(request,'register.html')
-#     def post(self,request):
-#         # value=request.Post.get('key')
-#         username = request.POST.get('username')
-#         password = request.POST.get('password')
-#         password2 = request.POST.get('password2')
-#         mobile = request.POST.get('mobile')
-#         allow = request.POST.get('allow')
-#         # if  not all([username,password,password2,mobile,allow ]):
-#         #     return http.HttpResponseForbidden('缺少必穿参数')
-#         # if not re.match(r'^[a-zA-Z0-9_-]{5,20}^$',username):
-#             # return http.HttpResponseForbidden('请输入5-20字符的用户名')
-#         # if not re.match(r'^[0-9A-Za-z_-]{5,20}$', username):
-#         #     return http.HttpResponseForbidden('请输入8-20位的账号')
-#         if not re.match(r'^[0-9A-Za-z]{8,20}$', password):
-#             return http.HttpResponseForbidden('请输入8-20位的密码')
-#         # 判断两次密码是否一致
-#         if password != password2:
-#             return http.HttpResponseForbidden('两次输入的密码不一致')
-#         # 判断手机号是否合法
-#         if not re.match(r'^1[3-9]\d{9}$', mobile):
-#             return http.HttpResponseForbidden('请输入正确的手机号码')
-#         # 判断是否勾选用户协议
-#         if allow != 'on':
-#             return http.HttpResponseForbidden('请勾选用户协议')
-#         try:
-#             User.objects.create_user(username=username,password=password,mobile=mobile)
-#         except DatabaseError:
-#             return render(request,'register.html',{'register_error':'注册失败'})
-#         return redirect(reverse('contents:index'))
+
 from django.shortcuts import render, redirect
 from django.views import View
 from django import http
 import re
 from django.db import DatabaseError
 from django.urls import reverse
-from django.contrib.auth import login
-from django.contrib.auth import login
+from django.contrib.auth import login,authenticate
+# from django.contrib.auth import login
 from meiduo.utils.response_code import RETCODE
 
 from .models import User
@@ -127,4 +86,26 @@ class RegisterView(View):
         # return redirect('/')
         # reverse('contents:index') == '/'
         login(request,user)
+        return redirect(reverse('contents:index'))
+class LoginView(View):
+    def get(self,request):
+        return render(request,'login.html')
+    def post(self,request):
+        username=request.POST.get('username')
+        password = request.POST.get('password')
+        remembered = request.POST.get('remembered')
+        if not all([username,password]):
+            return http.HttpResponseForbidden('缺少必穿参数')
+        if not re.match(r'^[a-zA-Z0-9_-]{5,20}',username):
+            return http.HttpResponseForbidden('请输入正确的用户名密码')
+        if not re.match(r'^[a-zA-Z0-9_-]{8,20}',password):
+            return http.HttpResponseForbidden('请输入正确的用户名密码')
+        user=authenticate(username=username,password=password)
+        if user is None:
+            return render(request,'login.html',{'account_error':'账号或密码错误'})
+        login(request,user)
+        if remembered !='on' :
+            request.session.set_expiry(0)
+        else:
+            request.session.set_expiry(None)
         return redirect(reverse('contents:index'))
