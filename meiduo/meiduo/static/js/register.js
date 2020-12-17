@@ -10,6 +10,9 @@ let vm = new Vue({
         password2: '',
         mobile: '',
         allow: '',
+        image_code_url:'',
+        uuid:'',
+        image_code:'',
 
         // v-show
         error_name: false,
@@ -17,13 +20,22 @@ let vm = new Vue({
         error_password2: false,
         error_mobile: false,
         error_allow: false,
+        error_image_code:false,
 
         // error_message
         error_name_message: '',
         error_mobile_message: '',
+        error_image_code_message:'',
+    },
+    mounted(){
+        this.generate_image_code();
     },
     methods: { // 定义和实现事件方法
         // 校验用户名
+        generate_image_code(){
+            this.uuid=generateUUID();
+            this.image_code_url='/image_codes/'+this.uuid+'/';
+        },
         check_username() {
             // 用户名是5-20个字符，[a-zA-Z0-9_-]
             // 定义正则
@@ -73,6 +85,7 @@ let vm = new Vue({
             } else {
                 this.error_password2 = false;
             }
+
         },
         // 校验手机号
         check_mobile() {
@@ -82,6 +95,34 @@ let vm = new Vue({
             } else {
                 this.error_mobile_message = '您输入的手机号格式不正确';
                 this.error_mobile = true;
+            }
+            if (this.error_mobile == false) {
+                let re_path = '/mobile/' + this.mobile + '/count/';
+                axios.get(re_path, {
+                    responseType: 'json'
+                })
+                    .then(response => {
+                        if (response.data.count == 1) {
+                            // 用户名已存在
+                            this.error_mobile_message = '手机号存在';
+                            this.error_mobile = true;
+                        } else {
+                            // 用户名不存在
+                            this.error_mobile = false;
+                        }
+                    })
+                    .catch(error => {
+                        console.log(error.response);
+                    })
+            }
+
+        },
+        check_image(){
+            if(this.image_code.length !=4){
+                this.error_image_code_message='请输入图形验证';
+                this.error_image_code=true;
+            }else{
+                this.error_image_code=false
             }
         },
         // 校验是否勾选协议

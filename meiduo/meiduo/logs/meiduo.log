@@ -1269,3 +1269,234 @@ INFO 2020-12-16 17:28:41,961 basehttp 157 "GET /username/python2/count/ HTTP/1.1
 INFO 2020-12-16 17:28:52,163 basehttp 157 "POST /register/ HTTP/1.1" 200 4626
 INFO 2020-12-16 17:28:52,203 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
 WARNING 2020-12-16 17:28:52,474 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-16 17:51:44,032 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-16 17:51:48,292 basehttp 157 "GET /register/ HTTP/1.1" 200 4521
+INFO 2020-12-16 17:51:48,421 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 4667
+INFO 2020-12-16 17:51:51,790 basehttp 157 "GET /username/python/count/ HTTP/1.1" 200 41
+INFO 2020-12-16 17:52:00,027 basehttp 157 "GET /username/13110262057/count/ HTTP/1.1" 200 41
+INFO 2020-12-16 17:52:01,834 basehttp 157 "GET /username/13110262057/count/ HTTP/1.1" 200 41
+INFO 2020-12-16 17:52:03,722 basehttp 157 "GET /username/13110262057/count/ HTTP/1.1" 200 41
+INFO 2020-12-16 17:52:07,254 basehttp 157 "GET /username/13110262057/count/ HTTP/1.1" 200 41
+INFO 2020-12-16 17:52:57,804 basehttp 157 "GET /register/ HTTP/1.1" 200 4521
+INFO 2020-12-16 17:52:57,839 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 4660
+INFO 2020-12-16 17:53:02,457 basehttp 157 "GET /username/13110262057/count/ HTTP/1.1" 200 41
+INFO 2020-12-16 17:54:50,374 basehttp 157 "GET /register/ HTTP/1.1" 200 4521
+INFO 2020-12-16 17:54:50,454 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-16 17:55:07,563 basehttp 157 "GET /mobile/13110262057/count HTTP/1.1" 301 0
+INFO 2020-12-16 17:55:07,572 basehttp 157 "GET /mobile/13110262057/count/ HTTP/1.1" 200 41
+INFO 2020-12-16 17:56:21,143 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 4594
+INFO 2020-12-16 17:56:27,724 basehttp 157 "GET /username/python/count/ HTTP/1.1" 200 41
+INFO 2020-12-16 17:56:31,883 basehttp 157 "GET /username/13110262057/count/ HTTP/1.1" 200 41
+INFO 2020-12-16 17:56:51,544 basehttp 157 "GET /username/python222222/count/ HTTP/1.1" 200 41
+INFO 2020-12-16 17:57:00,995 basehttp 157 "POST /register/ HTTP/1.1" 200 4626
+INFO 2020-12-16 17:57:01,029 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 4593
+INFO 2020-12-16 17:58:27,891 basehttp 157 "GET /username/13110262057/count/ HTTP/1.1" 200 41
+INFO 2020-12-16 17:58:31,113 basehttp 157 "GET /username/13110262057/count/ HTTP/1.1" 200 41
+INFO 2020-12-16 17:58:32,905 basehttp 157 "POST /register/ HTTP/1.1" 200 4626
+INFO 2020-12-16 17:58:32,933 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 4591
+INFO 2020-12-16 17:58:35,865 basehttp 157 "GET /mobile/13110262057/count/ HTTP/1.1" 200 41
+INFO 2020-12-16 17:58:50,508 basehttp 157 "GET /register/ HTTP/1.1" 200 4521
+INFO 2020-12-16 17:58:50,544 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 4588
+INFO 2020-12-16 17:58:55,436 basehttp 157 "GET /mobile/13110262057/count/ HTTP/1.1" 200 41
+INFO 2020-12-16 17:58:58,746 basehttp 157 "GET /register/ HTTP/1.1" 200 4521
+INFO 2020-12-16 17:58:58,777 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-17 10:26:58,856 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-17 10:27:01,216 basehttp 157 "GET /register/ HTTP/1.1" 200 4521
+INFO 2020-12-17 10:27:01,287 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-17 11:23:56,317 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-17 11:32:29,111 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-17 11:32:49,524 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/verifications/views.py changed, reloading.
+INFO 2020-12-17 11:32:49,887 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-17 11:34:07,138 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-17 11:34:39,990 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-17 11:34:59,442 basehttp 157 "GET /register/ HTTP/1.1" 200 4521
+INFO 2020-12-17 11:35:37,147 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/verifications/urls.py changed, reloading.
+INFO 2020-12-17 11:35:37,799 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-17 11:35:54,356 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-17 11:36:01,432 basehttp 157 "GET /register/ HTTP/1.1" 200 4521
+INFO 2020-12-17 11:49:18,669 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/verifications/views.py changed, reloading.
+INFO 2020-12-17 11:49:19,362 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-17 11:49:29,629 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-17 11:49:41,940 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/verifications/views.py changed, reloading.
+INFO 2020-12-17 11:49:42,368 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-17 11:49:57,885 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-17 11:52:50,522 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/verifications/views.py changed, reloading.
+INFO 2020-12-17 11:52:51,132 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-17 11:52:51,685 basehttp 157 "GET /register/ HTTP/1.1" 200 4521
+WARNING 2020-12-17 11:52:59,378 log 230 Forbidden: /register/
+WARNING 2020-12-17 11:52:59,378 basehttp 157 "POST /register/ HTTP/1.1" 403 18
+INFO 2020-12-17 14:12:47,899 basehttp 157 "GET /register/ HTTP/1.1" 200 4579
+INFO 2020-12-17 14:12:47,945 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 4833
+ERROR 2020-12-17 14:12:49,049 log 230 Internal Server Error: /image_codes/050252da-8b22-41b8-8230-642f808bcdd3/
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/verifications/views.py", line 28, in get
+    redis_conn = get_redis_connection('verify_code')
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django_redis/__init__.py", line 12, in get_redis_connection
+    cache = caches[alias]
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/cache/__init__.py", line 76, in __getitem__
+    "Could not find config for '%s' in settings.CACHES" % alias
+django.core.cache.backends.base.InvalidCacheBackendError: Could not find config for 'verify_code' in settings.CACHES
+ERROR 2020-12-17 14:12:49,050 basehttp 157 "GET /image_codes/050252da-8b22-41b8-8230-642f808bcdd3/ HTTP/1.1" 500 83658
+WARNING 2020-12-17 14:12:55,968 basehttp 157 "GET /static/js/axios.min.map HTTP/1.1" 404 1674
+INFO 2020-12-17 14:17:04,993 basehttp 157 "GET /register/ HTTP/1.1" 200 4579
+INFO 2020-12-17 14:17:05,024 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+ERROR 2020-12-17 14:17:05,364 log 230 Internal Server Error: /image_codes/70d25b70-aa01-4ed0-ad35-d21d61150205/
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/verifications/views.py", line 28, in get
+    redis_conn = get_redis_connection('verify_code')
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django_redis/__init__.py", line 12, in get_redis_connection
+    cache = caches[alias]
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/cache/__init__.py", line 76, in __getitem__
+    "Could not find config for '%s' in settings.CACHES" % alias
+django.core.cache.backends.base.InvalidCacheBackendError: Could not find config for 'verify_code' in settings.CACHES
+ERROR 2020-12-17 14:17:05,364 basehttp 157 "GET /image_codes/70d25b70-aa01-4ed0-ad35-d21d61150205/ HTTP/1.1" 500 83642
+INFO 2020-12-17 14:17:52,680 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-17 14:18:09,889 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-17 14:18:20,365 basehttp 157 "GET /register/ HTTP/1.1" 200 4579
+INFO 2020-12-17 14:18:20,392 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+ERROR 2020-12-17 14:18:21,015 log 230 Internal Server Error: /image_codes/3e3d026a-45a2-4004-bb5e-2c28504d06d6/
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/verifications/views.py", line 28, in get
+    redis_conn = get_redis_connection('verify_code')
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django_redis/__init__.py", line 12, in get_redis_connection
+    cache = caches[alias]
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/cache/__init__.py", line 76, in __getitem__
+    "Could not find config for '%s' in settings.CACHES" % alias
+django.core.cache.backends.base.InvalidCacheBackendError: Could not find config for 'verify_code' in settings.CACHES
+ERROR 2020-12-17 14:18:21,020 basehttp 157 "GET /image_codes/3e3d026a-45a2-4004-bb5e-2c28504d06d6/ HTTP/1.1" 500 83640
+INFO 2020-12-17 14:19:26,299 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/verifications/views.py changed, reloading.
+INFO 2020-12-17 14:19:26,670 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-17 14:19:34,000 basehttp 157 "GET /register/ HTTP/1.1" 200 4579
+INFO 2020-12-17 14:19:34,020 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+ERROR 2020-12-17 14:19:34,675 log 230 Internal Server Error: /image_codes/93b7d9b0-3008-4a7e-a08c-082f4c25ec4c/
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/verifications/views.py", line 25, in get
+    text, image = captcha.generate_captcha()
+NameError: name 'captcha' is not defined
+ERROR 2020-12-17 14:19:34,677 basehttp 157 "GET /image_codes/93b7d9b0-3008-4a7e-a08c-082f4c25ec4c/ HTTP/1.1" 500 70535
+INFO 2020-12-17 14:23:31,809 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/verifications/views.py changed, reloading.
+INFO 2020-12-17 14:23:32,377 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-17 14:23:40,452 basehttp 157 "GET /register/ HTTP/1.1" 200 4579
+INFO 2020-12-17 14:23:40,484 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+ERROR 2020-12-17 14:23:40,854 log 230 Internal Server Error: /image_codes/63453117-f7a1-415e-b41d-ab575dfbe65a/
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/verifications/views.py", line 28, in get
+    redis_conn = get_redis_connection('verify_code')
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django_redis/__init__.py", line 12, in get_redis_connection
+    cache = caches[alias]
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/cache/__init__.py", line 76, in __getitem__
+    "Could not find config for '%s' in settings.CACHES" % alias
+django.core.cache.backends.base.InvalidCacheBackendError: Could not find config for 'verify_code' in settings.CACHES
+ERROR 2020-12-17 14:23:40,855 basehttp 157 "GET /image_codes/63453117-f7a1-415e-b41d-ab575dfbe65a/ HTTP/1.1" 500 83628
+INFO 2020-12-17 14:24:03,188 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-17 14:24:14,296 basehttp 157 "GET /register/ HTTP/1.1" 200 4579
+ERROR 2020-12-17 14:24:14,698 log 230 Internal Server Error: /image_codes/a6db174a-e139-456f-82b1-93dce40bf0ea/
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/verifications/views.py", line 25, in get
+    text, image = captcha.generate_captcha()
+NameError: name 'captcha' is not defined
+ERROR 2020-12-17 14:24:14,701 basehttp 157 "GET /image_codes/a6db174a-e139-456f-82b1-93dce40bf0ea/ HTTP/1.1" 500 70535
+INFO 2020-12-17 14:24:46,441 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/verifications/views.py changed, reloading.
+INFO 2020-12-17 14:24:47,017 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-17 14:24:51,139 basehttp 157 "GET /register/ HTTP/1.1" 200 4579
+INFO 2020-12-17 14:24:51,171 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+ERROR 2020-12-17 14:24:51,534 log 230 Internal Server Error: /image_codes/0e899f05-569d-4b9b-92e3-01018161da01/
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/verifications/views.py", line 28, in get
+    redis_conn = get_redis_connection('verify_code')
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django_redis/__init__.py", line 12, in get_redis_connection
+    cache = caches[alias]
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/core/cache/__init__.py", line 76, in __getitem__
+    "Could not find config for '%s' in settings.CACHES" % alias
+django.core.cache.backends.base.InvalidCacheBackendError: Could not find config for 'verify_code' in settings.CACHES
+ERROR 2020-12-17 14:24:51,536 basehttp 157 "GET /image_codes/0e899f05-569d-4b9b-92e3-01018161da01/ HTTP/1.1" 500 83606
+INFO 2020-12-17 14:26:09,549 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/settings/dev.py changed, reloading.
+INFO 2020-12-17 14:26:09,952 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-17 14:26:13,330 basehttp 157 "GET /register/ HTTP/1.1" 200 4579
+INFO 2020-12-17 14:26:13,369 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-17 14:26:13,691 basehttp 157 "GET /image_codes/9dce0ba8-bf36-4659-a115-5069190dd481/ HTTP/1.1" 200 3362
+INFO 2020-12-17 14:26:20,831 basehttp 157 "GET /register/ HTTP/1.1" 200 4579
+INFO 2020-12-17 14:26:21,111 basehttp 157 "GET /image_codes/0764d259-07f3-42ed-9f8b-d26913087471/ HTTP/1.1" 200 3137
+INFO 2020-12-17 14:27:46,653 basehttp 157 "GET /register/ HTTP/1.1" 200 4608
+INFO 2020-12-17 14:27:46,682 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-17 14:27:47,929 basehttp 157 "GET /image_codes/244d9a61-f831-452c-8be7-7853d76c97da/ HTTP/1.1" 200 3070
+INFO 2020-12-17 14:27:49,498 basehttp 157 "GET /image_codes/770e5cee-3776-4c9f-aa82-42fc581ae949/ HTTP/1.1" 200 2815
+INFO 2020-12-17 14:27:50,110 basehttp 157 "GET /image_codes/28bc0d0a-ee4e-47b2-ba4a-7361cac16377/ HTTP/1.1" 200 3206
+INFO 2020-12-17 14:27:50,348 basehttp 157 "GET /image_codes/af9e6c58-3641-401f-892c-c0f300e7f70c/ HTTP/1.1" 200 3687
+INFO 2020-12-17 14:27:50,519 basehttp 157 "GET /image_codes/e80a194c-7a58-47ff-9dfe-038d31c58c30/ HTTP/1.1" 200 2949
+INFO 2020-12-17 14:39:30,508 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/verifications/views.py changed, reloading.
+INFO 2020-12-17 14:39:31,262 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-17 14:39:38,950 basehttp 157 "GET /register/ HTTP/1.1" 200 4608
+INFO 2020-12-17 14:39:38,971 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-17 14:39:39,693 basehttp 157 "GET /image_codes/e3d18d88-f3a8-40b3-8ecb-ff2ce636c002/ HTTP/1.1" 200 3620
+INFO 2020-12-17 14:43:49,562 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/verifications/views.py changed, reloading.
+INFO 2020-12-17 14:43:50,404 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-17 14:44:06,908 autoreload 240 /Users/caimengxuan/Desktop/meit/meiduo_mall/meiduo/meiduo/app/verifications/views.py changed, reloading.
+INFO 2020-12-17 14:44:07,622 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-17 14:57:15,883 basehttp 157 "GET /register/ HTTP/1.1" 200 4679
+INFO 2020-12-17 14:57:15,920 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 5194
+INFO 2020-12-17 14:57:22,241 basehttp 157 "GET /register/ HTTP/1.1" 200 4679
+INFO 2020-12-17 14:57:22,266 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-17 14:58:37,042 basehttp 157 "GET /register/ HTTP/1.1" 200 4679
+INFO 2020-12-17 14:58:37,087 basehttp 157 "GET /static/js/register.js HTTP/1.1" 200 5195
+INFO 2020-12-17 14:58:38,218 basehttp 157 "GET /image_codes/ea1dff63-f13e-4dab-b809-4cdd871b4a99/ HTTP/1.1" 200 3260
+INFO 2020-12-17 14:59:10,512 autoreload 617 Watching for file changes with StatReloader
+INFO 2020-12-17 14:59:15,152 basehttp 157 "GET /register/ HTTP/1.1" 200 4679
+INFO 2020-12-17 14:59:15,188 basehttp 157 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-12-17 14:59:15,464 basehttp 157 "GET /image_codes/a8f0534c-e0cb-4c9b-896d-b0b58a72b60f/ HTTP/1.1" 200 2787
